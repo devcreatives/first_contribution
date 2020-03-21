@@ -16,7 +16,7 @@ console.log(contributors);
     res.render('index',{members:contributors})
 })
 //connection to server
-app.listen(3000, error => {
+app.listen(3000||process.env.PORT, error => {
     if (error) console.log("error is " + error);
     else console.log("listening to port " + 3000);
 
