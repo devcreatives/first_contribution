@@ -18,14 +18,14 @@
         {
             "name":"Darshan",
             "avatar":"https://avatars0.githubusercontent.com/u/28563355?s=460&u=98d383307b19b667995d61b7597dcc8c6def5186&v=4",
-            "description":"I am front end developer working on javascript,react js and react native.I prefer redux for state management and i perform testing in Jmeter and katalone studio",
+            "description":"I am front end developer working on javascript,react js and react native.",
             "githuburl":"https://github.com/darshan82",
             "linkedinurl":""
         },
         {
             "name":"saeed_dev",
             "avatar":"https://avatars0.githubusercontent.com/u/17095740?s=460&u=ada9f7491ad9d4ae79a120c9d8db12418d111afe&v=4",
-            "description":"Building scalable applications using React & React Native |@datacamp certified Data Scientist | Writer @ Medium & DEV | Open Source Contributor",
+            "description":"Building scalable applications using React & React Native",
             "githuburl":"https://github.com/dev-saeed",
             "linkedinurl":""
         },
@@ -87,6 +87,10 @@
             "githuburl":"https://github.com/Mohammad-Bilal-Bhatti",
             "linkedinurl":""
         }
+    ],
+    "contributors":[
+        
     ]
+
 
 }

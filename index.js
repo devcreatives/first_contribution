@@ -4,8 +4,16 @@ const path=require('path');
 //Serves resources from public folder
 app.use(express.static(path.join(__dirname,'public'))); 
 app.set('view engine', 'ejs');
+const fs = require('fs');
+
+
+
 app.get('/',(req,res)=>{
-    res.render('index')
+    let rawdata = fs.readFileSync('./Data/member.json');
+let contributors = JSON.parse(rawdata);
+console.log(contributors);
+
+    res.render('index',{members:contributors})
 })
 //connection to server
 app.listen(3000, error => {
