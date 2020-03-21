@@ -1,5 +1,5 @@
 ### It is a web page that shows details of all the members, owners and contributors 
-### [Techistan Contibutors]('www.xzy.com')
+### [Techistan Contibutors]('https://techistan-contributors.herokuapp.com/')
 
 # First Contribution
 - Are you new to open source project?
@@ -76,4 +76,4 @@ Once you have pushed your code to github now the its time to create pull create,
 
 Soon, we will be merging all your pull requests to the main branch of project and you will also get notification once your pull request is merged with existing code base you will be able to your details in contributor section in page below
 
-
+### [Techistan Contibutors]('https://techistan-contributors.herokuapp.com/')
