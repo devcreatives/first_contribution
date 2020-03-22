@@ -50,13 +50,7 @@
             "githuburl":"https://github.com/Mudassar045",
             "linkedinurl":""
         },
-        {
-            "name":"Muhmmad Owais Raza",
-            "avatar":"https://avatars3.githubusercontent.com/u/39921596?s=460&u=49d6f0b56fcbaeb1a28add319a295231099f0766&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/owais4321",
-            "linkedinurl":""
-        },
+
         {
             "name":"Salman Akhtar Warraich",
             "avatar":"https://avatars2.githubusercontent.com/u/50401457?s=460&u=58b384c48ef9616df6f0a30eb8cefce047ab3995&v=4",
@@ -85,6 +79,13 @@
             "avatar":"https://avatars2.githubusercontent.com/u/41234914?s=460&u=9f3be85f895313eca6cd4d1ed1e9d2569b4c4afa&v=4",
             "description":"Software Engineering student. I love to write code that add values to others life.",
             "githuburl":"https://github.com/Mohammad-Bilal-Bhatti",
+            "linkedinurl":""
+        },       
+        {
+            "name":"Muhmmad Owais Raza",
+            "avatar":"https://avatars3.githubusercontent.com/u/39921596?s=460&u=49d6f0b56fcbaeb1a28add319a295231099f0766&v=4",
+            "description":"Open source contributor and a member of techistan",
+            "githuburl":"https://github.com/owais4321",
             "linkedinurl":""
         }
     ],
