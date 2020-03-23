@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ibrahimijc",
+      "name": "ibrahimijc",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33429696?v=4",
+      "profile": "https://github.com/ibrahimijc",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "first_contribution",
+  "projectOwner": "Techistan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
