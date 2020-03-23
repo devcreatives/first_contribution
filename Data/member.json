@@ -90,7 +90,13 @@
         }
     ],
     "contributors":[
-        
+        {
+            "name":"Muhammad Ibrahim",
+            "avatar":"https://avatars1.githubusercontent.com/u/33429696?s=400&u=ba354107f87a5d82781739f88dd5aa4c53fa5a2d&v=4",
+            "description":"New to Open Source and looking forward to contribute in js stack",
+            "githuburl":"https://github.com/ibrahimijc",
+            "linkedinurl":"https://www.linkedin.com/in/ibrahimijc/"
+        }
     ]
 
 
