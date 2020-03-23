@@ -1,103 +1,107 @@
 {
-    "members":[
-        {
-            "name":"Alee kolachi",
-            "avatar":"https://avatars1.githubusercontent.com/u/42261880?s=460&u=417bfb1b0d58cc0fc7dff47952694314a6c96efc&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/alee-kolachi",
-            "linkedinurl":""
+  "members": [
+    {
+      "name": "Alee kolachi",
+      "avatar": "https://avatars1.githubusercontent.com/u/42261880?s=460&u=417bfb1b0d58cc0fc7dff47952694314a6c96efc&v=4",
+      "description": "Open source contributor and a member of techistan",
+      "githuburl": "https://github.com/alee-kolachi",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Ali Asghar Karani",
+      "avatar": "https://avatars2.githubusercontent.com/u/33603201?s=460&u=fcdaac777448aa6107a307b6f24e6053dde187f7&v=4",
+      "description": "Web & Mobile App. Developer who loves working on JavaScript",
+      "githuburl": "https://github.com/aliasgharkarani",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Darshan",
+      "avatar": "https://avatars0.githubusercontent.com/u/28563355?s=460&u=98d383307b19b667995d61b7597dcc8c6def5186&v=4",
+      "description": "I am front end developer working on javascript,react js and react native.",
+      "githuburl": "https://github.com/darshan82",
+      "linkedinurl": ""
+    },
+    {
+      "name": "saeed_dev",
+      "avatar": "https://avatars0.githubusercontent.com/u/17095740?s=460&u=ada9f7491ad9d4ae79a120c9d8db12418d111afe&v=4",
+      "description": "Building scalable applications using React & React Native",
+      "githuburl": "https://github.com/dev-saeed",
+      "linkedinurl": ""
+    },
+    {
+      "name": "karim khamwani",
+      "avatar": "https://avatars3.githubusercontent.com/u/14240363?s=460&u=f42422dcc435a380b91321b282c5e0f472cbdb26&v=4",
+      "description": "Open source contributor and a member of techistan",
+      "githuburl": "https://github.com/karimkhamwani",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Mir Fahad Talpur",
+      "avatar": "https://avatars0.githubusercontent.com/u/31244700?s=460&u=4c5b7e12776af2abf81df622738f40fce181fe64&v=4",
+      "description": "Software Developer from Karachi, Pakistan",
+      "githuburl": "https://github.com/MirFahad58",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Mudassar Ali",
+      "avatar": "https://avatars0.githubusercontent.com/u/24487349?s=460&u=efda5f935b553d70edf2a2a70a17828d4b97aeb7&v=4",
+      "description": "Eat Less Code More JS Junkie",
+      "githuburl": "https://github.com/Mudassar045",
+      "linkedinurl": ""
+    },
 
-        },
-        {
-            "name":"Ali Asghar Karani",
-            "avatar":"https://avatars2.githubusercontent.com/u/33603201?s=460&u=fcdaac777448aa6107a307b6f24e6053dde187f7&v=4",
-            "description":"Web & Mobile App. Developer who loves working on JavaScript",
-            "githuburl":"https://github.com/aliasgharkarani",
-            "linkedinurl":""
-        },
-        {
-            "name":"Darshan",
-            "avatar":"https://avatars0.githubusercontent.com/u/28563355?s=460&u=98d383307b19b667995d61b7597dcc8c6def5186&v=4",
-            "description":"I am front end developer working on javascript,react js and react native.",
-            "githuburl":"https://github.com/darshan82",
-            "linkedinurl":""
-        },
-        {
-            "name":"saeed_dev",
-            "avatar":"https://avatars0.githubusercontent.com/u/17095740?s=460&u=ada9f7491ad9d4ae79a120c9d8db12418d111afe&v=4",
-            "description":"Building scalable applications using React & React Native",
-            "githuburl":"https://github.com/dev-saeed",
-            "linkedinurl":""
-        },
-        {
-            "name":"karim khamwani",
-            "avatar":"https://avatars3.githubusercontent.com/u/14240363?s=460&u=f42422dcc435a380b91321b282c5e0f472cbdb26&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/karimkhamwani",
-            "linkedinurl":""
-        },
-        {
-            "name":"Mir Fahad Talpur",
-            "avatar":"https://avatars0.githubusercontent.com/u/31244700?s=460&u=4c5b7e12776af2abf81df622738f40fce181fe64&v=4",
-            "description":"Software Developer from Karachi, Pakistan",
-            "githuburl":"https://github.com/MirFahad58",
-            "linkedinurl":""
-        },
-        {
-            "name":"Mudassar Ali",
-            "avatar":"https://avatars0.githubusercontent.com/u/24487349?s=460&u=efda5f935b553d70edf2a2a70a17828d4b97aeb7&v=4",
-            "description":"Eat Less Code More JS Junkie",
-            "githuburl":"https://github.com/Mudassar045",
-            "linkedinurl":""
-        },
-
-        {
-            "name":"Salman Akhtar Warraich",
-            "avatar":"https://avatars2.githubusercontent.com/u/50401457?s=460&u=58b384c48ef9616df6f0a30eb8cefce047ab3995&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/salmanwarraich",
-            "linkedinurl":""
-        }
-    ],
-    "ownwer":[
-        {
-            "name":"Slim Coder",
-            "avatar":"https://avatars2.githubusercontent.com/u/28563357?s=460&u=78508ddc7312bc6faa38eaf82ea7d8e0217dcc5a&v=4",
-            "description":"Software Engineer ⟩ Open Source Community Enthusiast ⟩ Tech Evangelist",
-            "githuburl":"https://github.com/viveksharmaui",
-            "linkedinurl":"https://www.linkedin.com/in/vvkofficial"
-        },
-        {
-            "name":"Sanaullah bugti",
-            "avatar":"https://avatars1.githubusercontent.com/u/39256766?s=460&u=1e99fa964f212c62e4c08c73907973159f564a35&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/Sanaullahbugti",
-            "linkedinurl":""
-        },
-        {
-            "name":"Mohammad Bilal Bhatti",
-            "avatar":"https://avatars2.githubusercontent.com/u/41234914?s=460&u=9f3be85f895313eca6cd4d1ed1e9d2569b4c4afa&v=4",
-            "description":"Software Engineering student. I love to write code that add values to others life.",
-            "githuburl":"https://github.com/Mohammad-Bilal-Bhatti",
-            "linkedinurl":""
-        },       
-        {
-            "name":"Muhmmad Owais Raza",
-            "avatar":"https://avatars3.githubusercontent.com/u/39921596?s=460&u=49d6f0b56fcbaeb1a28add319a295231099f0766&v=4",
-            "description":"Open source contributor and a member of techistan",
-            "githuburl":"https://github.com/owais4321",
-            "linkedinurl":""
-        }
-    ],
-    "contributors":[
-        {
-            "name":"Muhammad Ibrahim",
-            "avatar":"https://avatars1.githubusercontent.com/u/33429696?s=400&u=ba354107f87a5d82781739f88dd5aa4c53fa5a2d&v=4",
-            "description":"New to Open Source and looking forward to contribute in js stack",
-            "githuburl":"https://github.com/ibrahimijc",
-            "linkedinurl":"https://www.linkedin.com/in/ibrahimijc/"
-        }
-    ]
-
-
+    {
+      "name": "Salman Akhtar Warraich",
+      "avatar": "https://avatars2.githubusercontent.com/u/50401457?s=460&u=58b384c48ef9616df6f0a30eb8cefce047ab3995&v=4",
+      "description": "Open source contributor and a member of techistan",
+      "githuburl": "https://github.com/salmanwarraich",
+      "linkedinurl": ""
+    }
+  ],
+  "ownwer": [
+    {
+      "name": "Slim Coder",
+      "avatar": "https://avatars2.githubusercontent.com/u/28563357?s=460&u=78508ddc7312bc6faa38eaf82ea7d8e0217dcc5a&v=4",
+      "description": "Software Engineer ⟩ Open Source Community Enthusiast ⟩ Tech Evangelist",
+      "githuburl": "https://github.com/viveksharmaui",
+      "linkedinurl": "https://www.linkedin.com/in/vvkofficial"
+    },
+    {
+      "name": "Sanaullah bugti",
+      "avatar": "https://avatars1.githubusercontent.com/u/39256766?s=460&u=1e99fa964f212c62e4c08c73907973159f564a35&v=4",
+      "description": "Open source contributor and a member of techistan",
+      "githuburl": "https://github.com/Sanaullahbugti",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Mohammad Bilal Bhatti",
+      "avatar": "https://avatars2.githubusercontent.com/u/41234914?s=460&u=9f3be85f895313eca6cd4d1ed1e9d2569b4c4afa&v=4",
+      "description": "Software Engineering student. I love to write code that add values to others life.",
+      "githuburl": "https://github.com/Mohammad-Bilal-Bhatti",
+      "linkedinurl": ""
+    },
+    {
+      "name": "Muhmmad Owais Raza",
+      "avatar": "https://avatars3.githubusercontent.com/u/39921596?s=460&u=49d6f0b56fcbaeb1a28add319a295231099f0766&v=4",
+      "description": "Open source contributor and a member of techistan",
+      "githuburl": "https://github.com/owais4321",
+      "linkedinurl": ""
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Muhammad Ibrahim",
+      "avatar": "https://avatars1.githubusercontent.com/u/33429696?s=400&u=ba354107f87a5d82781739f88dd5aa4c53fa5a2d&v=4",
+      "description": "New to Open Source and looking forward to contribute in js stack",
+      "githuburl": "https://github.com/ibrahimijc",
+      "linkedinurl": "https://www.linkedin.com/in/ibrahimijc/"
+    },
+    {
+      "name": "Muhammad Owais",
+      "avatar": "https://avatars0.githubusercontent.com/u/55442490?s=400&u=7c9c5c6e452353d602fa5024b8c989492934c637&v=4",
+      "description": "New to Open Source and looking forward to contribute in js stack",
+      "githuburl": "https://github.com/Owais897",
+      "linkedinurl": "https://www.linkedin.com/in/owaissharif/"
+    }
+  ]
 }
