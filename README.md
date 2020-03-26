@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -80,6 +80,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/ibrahimijc"><img src="https://avatars0.githubusercontent.com/u/33429696?v=4" width="100px;" alt=""/><br /><sub><b>ibrahimijc</b></sub></a><br /><a href="#content-ibrahimijc" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/Aqsa48"><img src="https://avatars0.githubusercontent.com/u/21342218?v=4" width="100px;" alt=""/><br /><sub><b>Aqsa</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=aqsa48" title="Code">💻</a></td>
   </tr>
 </table>
 
