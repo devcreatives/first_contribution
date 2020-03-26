@@ -9,13 +9,14 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="./css/style.css">
+
     <title>Techistan</title>
 </head>
 
 <body>
     <!-- Team -->
     <section id="team" class="pb-5">
-        <img id='logo' src="./img/logo.png" alt="">
+        <a href="https://github.com/Techistan"> <img id='logo' src="./img/logo.png" alt=""></a>
         <div class="container">
             <h5 class="section-title h1">Owners</h5>
             <div class="row">
@@ -42,12 +43,13 @@
                                         <ul class="list-inline">
                                             <li class="list-inline-item">
                                                 <a class="social-icon text-xs-center" target="_blank"
-                                                    href=<%= mem.githuburl %></a>
+                                                    href=<%= mem.githuburl %>>
                                                     <i class="fa fa-github"></i>
                                                 </a>
                                             </li>
                                             <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <a class="social-icon text-xs-center" target="_blank"
+                                                    href=<%= mem.linkedinurl %>>
                                                     <i class="fa fa-linkedin"></i>
                                                 </a>
                                             </li>
@@ -90,16 +92,20 @@
                                 <div class="card">
                                     <div class="card-body text-center mt-4">
                                         <h4 class="card-title"><%= mem.name %></h4>
-                                        <p class="card-text"><%= mem.description%></p>
+                                        <p class="card-text"><%= mem.description%> </p>
+
+
                                         <ul class="list-inline">
                                             <li class="list-inline-item">
+
                                                 <a class="social-icon text-xs-center" target="_blank"
-                                                    href=<%= mem.githuburl %></a>
+                                                    href=<%= mem.githuburl %>>
                                                     <i class="fa fa-github"></i>
                                                 </a>
                                             </li>
                                             <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <a class="social-icon text-xs-center" target="_blank"
+                                                    href=<%= mem.linkedinurl %>>
                                                     <i class="fa fa-linkedin"></i>
                                                 </a>
                                             </li>
@@ -118,6 +124,7 @@
     </section>
     <!-- Team -->
 
+    <!-- Contributors Json  -->
     <!-- Team -->
     <section id="team" class="pb-5">
         <div class="container">
@@ -146,12 +153,13 @@
                                         <ul class="list-inline">
                                             <li class="list-inline-item">
                                                 <a class="social-icon text-xs-center" target="_blank"
-                                                    href=<%= mem.githuburl %></a>
+                                                    href=<%= mem.githuburl %>>
                                                     <i class="fa fa-github"></i>
                                                 </a>
                                             </li>
                                             <li class="list-inline-item">
-                                                <a class="social-icon text-xs-center" target="_blank" href="#">
+                                                <a class="social-icon text-xs-center" target="_blank"
+                                                    href=<%= mem.linkedinurl %>>
                                                     <i class="fa fa-linkedin"></i>
                                                 </a>
                                             </li>
