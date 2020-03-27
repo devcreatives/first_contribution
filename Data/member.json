@@ -86,6 +86,13 @@
             "description":"Software Engineering student. I love to write code that add values to others life.",
             "githuburl":"https://github.com/Mohammad-Bilal-Bhatti",
             "linkedinurl":""
+        },
+        {
+            "name":"Amin Shoukat",
+            "avatar":"https://avatars0.githubusercontent.com/u/47177827?s=460&u=7d0e59c0ec40a8a635d7ca178c216174d1c036d6&v=4",
+            "description":"Junior Software Engineer • Learning MERN Stack • Karachi, Pakistan",
+            "githuburl":"https://github.com/aminshoukat/",
+            "linkedinurl":"https://www.linkedin.com/in/amin-shoukat-b0216ba4/"
         }
     ],
     "contributors":[
