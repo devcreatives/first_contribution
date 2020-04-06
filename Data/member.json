@@ -108,6 +108,13 @@
             "description":"Junior Software Engineer • Learning MERN Stack • Karachi, Pakistan",
             "githuburl":"https://github.com/aminshoukat/",
             "linkedinurl":"https://www.linkedin.com/in/amin-shoukat-b0216ba4/"
+        }, 
+        {
+            "name": "Abhi Sahu", 
+            "avatar":"http://abhisahu.epizy.com/", 
+            "description": "YOLO", 
+            "githuburl": "https://github.com/beingabhi007", 
+            "linkedinurl": "https://www.linkedin.com/in/abhi-sahu-55058a14b/"
         }
     ]
 }
