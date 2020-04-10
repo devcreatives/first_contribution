@@ -2,6 +2,8 @@ const express = require('express');
 const app = express();
 const path = require('path');
 
+const PORT = process.env.PORT || 3000
+
 //Serves resources from public folder
 app.use(express.static(path.join(__dirname, 'public')));
 app.set('view engine', 'ejs');
@@ -19,9 +21,9 @@ app.get('/', (req, res) => {
 
 //connection to server
 
-app.listen(process.env.PORT, error => {
+app.listen(PORT, error => {
     if (error) console.log("error is " + error);
-    else console.log("listening to port " + 3000);
+    else console.log(`Server strted on port ${PORT}`);
 
 });
 
