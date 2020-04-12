@@ -115,6 +115,13 @@
             "description": "YOLO", 
             "githuburl": "https://github.com/beingabhi007", 
             "linkedinurl": "https://www.linkedin.com/in/abhi-sahu-55058a14b/"
+        },
+        {
+            "name": "Eduardo Villalpando Mello",
+            "avatar": "https://avatars0.githubusercontent.com/u/5952839?s=460&u=25fd0ced415f8a45c3da0d364fd9fa6c965dc065&v=4",
+            "description": "1st year computer science student. Programmer, Designer. @Ctrl-Alt-Tec. Mexico",
+            "githuburl": "https://github.com/edvilme", 
+            "linkedinurl": ""
         }
     ]
 }
