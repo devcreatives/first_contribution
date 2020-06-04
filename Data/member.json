@@ -115,6 +115,13 @@
             "description": "YOLO", 
             "githuburl": "https://github.com/beingabhi007", 
             "linkedinurl": "https://www.linkedin.com/in/abhi-sahu-55058a14b/"
+        },
+        {
+            "name": "Nazia Pathan", 
+            "avatar":"https://avatars2.githubusercontent.com/u/63148887?s=460&v=4", 
+            "description": "Research Associate", 
+            "githuburl": "https://github.com/Nazia09-p", 
+            "linkedinurl": ""
         }
     ]
 }
