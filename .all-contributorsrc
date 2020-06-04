@@ -31,6 +31,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "bacarpenter",
+      "name": "Ben Carpenter",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61632829?v=4",
+      "profile": "https://github.com/bacarpenter",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
