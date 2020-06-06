@@ -122,6 +122,13 @@
             "description": "ML Enthusiast | Human Being", 
             "githuburl": "https://github.com/mursalfk", 
             "linkedinurl": "https://www.linkedin.com/in/mursalfurqan/"
+        },
+        {
+            "name": "Ben Carpenter",
+            "avatar": "https://avatars1.githubusercontent.com/u/61632829?s=60&u=fb04211a42a080a425152b2d97160104c0327979&v=4",
+            "description": "Open source contributor",
+            "githuburl": "https://github.com/bacarpenter",
+            "linkedinurl": ""
         }
     ]
 }
