@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -86,6 +86,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://about.me/mursalfk"><img src="https://avatars0.githubusercontent.com/u/36442744?v=4" width="100px;" alt=""/><br /><sub><b>Mursal Furqan</b></sub></a><br /><a href="#content-mursalfk" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/siraiwaqarali"><img src="https://avatars1.githubusercontent.com/u/49365563?v=4" width="100px;" alt=""/><br /><sub><b>siraiwaqarali</b></sub></a><br /><a href="#content-siraiwaqarali" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/FatimaYousif"><img src="https://avatars2.githubusercontent.com/u/49322171?v=4" width="100px;" alt=""/><br /><sub><b>Fatima Yousif</b></sub></a><br /><a href="#content-FatimaYousif" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.linkedin.com/in/ibad-ullah-shaikh-ba4114169"><img src="https://avatars0.githubusercontent.com/u/45182517?v=4" width="100px;" alt=""/><br /><sub><b>Ibad Ullah Shaikh</b></sub></a><br /><a href="#content-ibadeeCodes" title="Content">🖋</a></td>
   </tr>
 </table>
 
