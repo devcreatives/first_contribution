@@ -117,6 +117,13 @@
             "linkedinurl": "https://www.linkedin.com/in/abhi-sahu-55058a14b/"
         },
         {
+            "name": "Mursal Furqan", 
+            "avatar":"https://www.facebook.com/photo.php?fbid=3948419865183649&set=a.157311847627822", 
+            "description": "ML Enthusiast | Human Being", 
+            "githuburl": "https://github.com/mursalfk", 
+            "linkedinurl": "https://www.linkedin.com/in/mursalfurqan/"
+        },
+        {
             "name": "Ben Carpenter",
             "avatar": "https://avatars1.githubusercontent.com/u/61632829?s=60&u=fb04211a42a080a425152b2d97160104c0327979&v=4",
             "description": "Open source contributor",
