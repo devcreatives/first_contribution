@@ -130,5 +130,12 @@
             "githuburl": "https://github.com/bacarpenter",
             "linkedinurl": ""
         }
+		{
+            "name": "Fatima Yousif",
+            "avatar": "https://www.facebook.com/profile.php?id=100004953911487",
+            "description": "Java & web developer",
+            "githuburl": "https://github.com/FatimaYousif",
+            "linkedinurl": "https://www.linkedin.com/in/fatima-yousif-89842819a"
+        },
     ]
 }
