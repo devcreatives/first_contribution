@@ -31,6 +31,42 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "bacarpenter",
+      "name": "Ben Carpenter",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61632829?v=4",
+      "profile": "https://github.com/bacarpenter",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mursalfk",
+      "name": "Mursal Furqan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/36442744?v=4",
+      "profile": "https://about.me/mursalfk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "siraiwaqarali",
+      "name": "siraiwaqarali",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49365563?v=4",
+      "profile": "https://github.com/siraiwaqarali",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "FatimaYousif",
+      "name": "Fatima Yousif",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49322171?v=4",
+      "profile": "https://github.com/FatimaYousif",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

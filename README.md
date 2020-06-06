@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -82,6 +82,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/ibrahimijc"><img src="https://avatars0.githubusercontent.com/u/33429696?v=4" width="100px;" alt=""/><br /><sub><b>ibrahimijc</b></sub></a><br /><a href="#content-ibrahimijc" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Aqsa48"><img src="https://avatars0.githubusercontent.com/u/21342218?v=4" width="100px;" alt=""/><br /><sub><b>Aqsa</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=aqsa48" title="Code">💻</a></td>
     <td align="center"><a href="https://www.upwork.com/fl/aminshoukat2"><img src="https://avatars2.githubusercontent.com/u/47177827?v=4" width="100px;" alt=""/><br /><sub><b>Amin</b></sub></a><br /><a href="#content-aminshoukat" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/bacarpenter"><img src="https://avatars2.githubusercontent.com/u/61632829?v=4" width="100px;" alt=""/><br /><sub><b>Ben Carpenter</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=bacarpenter" title="Code">💻</a></td>
+    <td align="center"><a href="https://about.me/mursalfk"><img src="https://avatars0.githubusercontent.com/u/36442744?v=4" width="100px;" alt=""/><br /><sub><b>Mursal Furqan</b></sub></a><br /><a href="#content-mursalfk" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/siraiwaqarali"><img src="https://avatars1.githubusercontent.com/u/49365563?v=4" width="100px;" alt=""/><br /><sub><b>siraiwaqarali</b></sub></a><br /><a href="#content-siraiwaqarali" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/FatimaYousif"><img src="https://avatars2.githubusercontent.com/u/49322171?v=4" width="100px;" alt=""/><br /><sub><b>Fatima Yousif</b></sub></a><br /><a href="#content-FatimaYousif" title="Content">🖋</a></td>
   </tr>
 </table>
 

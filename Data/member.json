@@ -121,7 +121,27 @@
             "avatar": "https://avatars0.githubusercontent.com/u/5952839?s=460&u=25fd0ced415f8a45c3da0d364fd9fa6c965dc065&v=4",
             "description": "1st year computer science student. Programmer, Designer. @Ctrl-Alt-Tec. Mexico",
             "githuburl": "https://github.com/edvilme", 
+
+            "name": "Mursal Furqan", 
+            "avatar":"https://www.facebook.com/photo.php?fbid=3948419865183649&set=a.157311847627822", 
+            "description": "ML Enthusiast | Human Being", 
+            "githuburl": "https://github.com/mursalfk", 
+            "linkedinurl": "https://www.linkedin.com/in/mursalfurqan/"
+        },
+        {
+            "name": "Ben Carpenter",
+            "avatar": "https://avatars1.githubusercontent.com/u/61632829?s=60&u=fb04211a42a080a425152b2d97160104c0327979&v=4",
+            "description": "Open source contributor",
+            "githuburl": "https://github.com/bacarpenter",
+
             "linkedinurl": ""
         }
+		{
+            "name": "Fatima Yousif",
+            "avatar": "https://www.facebook.com/profile.php?id=100004953911487",
+            "description": "Java & web developer",
+            "githuburl": "https://github.com/FatimaYousif",
+            "linkedinurl": "https://www.linkedin.com/in/fatima-yousif-89842819a"
+        },
     ]
 }
