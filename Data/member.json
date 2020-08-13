@@ -136,14 +136,14 @@
             "description": "Open source contributor",
             "githuburl": "https://github.com/bacarpenter",
             "linkedinurl": ""
-        }
+        },
         {
             "name": "Muhammad Azeem",
             "avatar": "https://avatars3.githubusercontent.com/u/37941410?s=460&u=1a744ccbc63a0c26ad1e304cb3617cabe1fe9deb&v=4",
             "description": "Web Developer and new to Open source contribution",
             "githuburl": "https://github.com/AzeemSup",
             "linkedinurl": "https://www.linkedin.com/in/realazeem631/"
-        }
+        },
 		{
             "name": "Fatima Yousif",
             "avatar": "https://www.facebook.com/profile.php?id=100004953911487",
@@ -151,5 +151,13 @@
             "githuburl": "https://github.com/FatimaYousif",
             "linkedinurl": "https://www.linkedin.com/in/fatima-yousif-89842819a"
         },
+
+        {
+            "name": "Muhammad Asim Khaskheli",
+            "avatar": "https://avatars1.githubusercontent.com/u/46053827?s=460&u=7cd067e77e0e992d0dabd8cb1684986d6e9504b2&v=4",
+            "description": "Deep Learning Enthusiast and Web Developer",
+            "githuburl": "https://github.com/Asim-2000",
+            "linkedinurl": "https://www.linkedin.com/in/asim-khaskheli/"
+        }
     ]
 }
