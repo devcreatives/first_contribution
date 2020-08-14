@@ -158,6 +158,16 @@
             "description": "Deep Learning Enthusiast and Web Developer",
             "githuburl": "https://github.com/Asim-2000",
             "linkedinurl": "https://www.linkedin.com/in/asim-khaskheli/"
+        },
+
+
+        {
+            "name": "Garima Singh",
+            "avatar": "https://avatars3.githubusercontent.com/u/44302373?s=460&u=a9569c40ef4a2b3ee72ca026c2a9964b74b4513e&v=4",
+            "description": "Junior | Aspiring Software Developer | Seeking Internships for CSE | Open-Source Mentor",
+            "githuburl": "https://github.com/garimasingh128",
+            "linkedinurl": "https://www.linkedin.com/in/garima-singh-34042a177/
         }
+
     ]
 }
