@@ -166,7 +166,16 @@
             "avatar": "https://avatars3.githubusercontent.com/u/44302373?s=460&u=a9569c40ef4a2b3ee72ca026c2a9964b74b4513e&v=4",
             "description": "Junior | Aspiring Software Developer | Seeking Internships for CSE | Open-Source Mentor",
             "githuburl": "https://github.com/garimasingh128",
-            "linkedinurl": "https://www.linkedin.com/in/garima-singh-34042a177/
+            "linkedinurl": "https://www.linkedin.com/in/garima-singh-34042a177/"
+        },
+
+
+        {
+            "name": "Kushal Agrawal",
+            "avatar": "https://avatars1.githubusercontent.com/u/26721689?s=460&u=171eae8ca700324a91506384c1df69dd8493f34e&v=4",
+            "description": "Software Developer | Open-Source Mentor",
+            "githuburl": "https://github.com/kushal98",
+            "linkedinurl": "https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/"
         }
 
     ]
