@@ -183,7 +183,17 @@
             "description": "Software Developer | Open-Source Mentor",
             "githuburl": "https://github.com/kushal98",
             "linkedinurl": "https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/"
+        },
+
+
+        {
+            "name": "Suraj Verma",
+            "avatar": "https://avatars3.githubusercontent.com/u/59371846?s=460&u=ae36bdbbe4a210b2322c4c24454297c233ebafcb&v=4",
+            "description": "[Developer || Coder || Writer]",
+            "githuburl": "https://github.com/Surajv311",
+            "linkedinurl": "https://www.linkedin.com/in/surajverma-sv"
         }
+
 
     ]
 }
