@@ -1,0 +1,133 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ibrahimijc",
+      "name": "ibrahimijc",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/33429696?v=4",
+      "profile": "https://github.com/ibrahimijc",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "aqsa48",
+      "name": "Aqsa",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/21342218?v=4",
+      "profile": "https://github.com/Aqsa48",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aminshoukat",
+      "name": "Amin",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/47177827?v=4",
+      "profile": "https://www.upwork.com/fl/aminshoukat2",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "bacarpenter",
+      "name": "Ben Carpenter",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/61632829?v=4",
+      "profile": "https://github.com/bacarpenter",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mursalfk",
+      "name": "Mursal Furqan",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/36442744?v=4",
+      "profile": "https://about.me/mursalfk",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "siraiwaqarali",
+      "name": "siraiwaqarali",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/49365563?v=4",
+      "profile": "https://github.com/siraiwaqarali",
+      "contributions": [
+        "content",
+        "code"
+      ]
+    },
+    {
+      "login": "FatimaYousif",
+      "name": "Fatima Yousif",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/49322171?v=4",
+      "profile": "https://github.com/FatimaYousif",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "ibadeeCodes",
+      "name": "Ibad Ullah Shaikh",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/45182517?v=4",
+      "profile": "http://www.linkedin.com/in/ibad-ullah-shaikh-ba4114169",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AzeemSup",
+      "name": "Muhammad Azeem",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/37941410?v=4",
+      "profile": "https://github.com/AzeemSup",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Asim-2000",
+      "name": "Muhammad Asim",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/46053827?v=4",
+      "profile": "https://www.linkedin.com/in/asim-khaskheli/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "garimasingh128",
+      "name": "Garima Singh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/44302373?v=4",
+      "profile": "http://garimasingh.netlify.app",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kushal98",
+      "name": "Kushal Agrawal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/26721689?v=4",
+      "profile": "https://kushal98.github.io/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Surajv311",
+      "name": "Suraj_v",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/59371846?v=4",
+      "profile": "https://surajv311.github.io/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "first_contribution",
+  "projectOwner": "Techistan",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
