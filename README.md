@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -94,6 +94,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://garimasingh.netlify.app"><img src="https://avatars2.githubusercontent.com/u/44302373?v=4" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=garimasingh128" title="Code">💻</a></td>
     <td align="center"><a href="https://kushal98.github.io/"><img src="https://avatars3.githubusercontent.com/u/26721689?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Agrawal</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=kushal98" title="Code">💻</a></td>
     <td align="center"><a href="https://surajv311.github.io/"><img src="https://avatars0.githubusercontent.com/u/59371846?v=4" width="100px;" alt=""/><br /><sub><b>Suraj_v</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=Surajv311" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/UsamaEjaz0"><img src="https://avatars1.githubusercontent.com/u/45048065?v=4" width="100px;" alt=""/><br /><sub><b>Usama Ejaz</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=UsamaEjaz0" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Inayat61"><img src="https://avatars2.githubusercontent.com/u/49411975?v=4" width="100px;" alt=""/><br /><sub><b>Inayat61</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=Inayat61" title="Code">💻</a></td>
   </tr>
 </table>
 
