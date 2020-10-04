@@ -206,8 +206,13 @@
             "description": "Software Engineer",
             "githuburl": "https://github.com/UsamaEjaz0",
             "linkedinurl": "https://www.linkedin.com/in/usamaejaz0/"
+      },
+       {
+            "name": "Umair Jibran",
+            "avatar": "https://avatars2.githubusercontent.com/u/43789374?u=9866dc07886958c9c7166a6ce80fba22ff9b557c&v=4",
+            "description": "Cross-platform Developer",
+            "githuburl": "https://github.com/UmairJibran",
+            "linkedinurl": "https://www.linkedin.com/in/UmairJibran"
       }
-
-
     ]
 }
