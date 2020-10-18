@@ -220,6 +220,13 @@
             "description": "React Native Developer",
             "githuburl": "https://github.com/Usamaliaquat123/",
             "linkedinurl": "https://www.linkedin.com/in/usamaliaquat"
-      }
+      },
+      {
+        "name": "Rao Ubaidullah",
+        "avatar": "https://web.facebook.com/photo.php?fbid=942769122781783&set=a.159917324400304&type=3&theater",
+        "description": "PHP Yii2 and React Native Developer",
+        "githuburl": "https://github.com/ubaidrao",
+        "linkedinurl": "https://www.linkedin.com/in/rao-ubaidullah-7b9a95169/"
+  }
     ]
 }
