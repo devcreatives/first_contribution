@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -103,6 +103,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://www.fourcodex.com/"><img src="https://avatars1.githubusercontent.com/u/43249290?v=4" width="100px;" alt=""/><br /><sub><b>Rao Ubaidullah </b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=ubaidrao" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/deolekarmayuresh"><img src="https://avatars1.githubusercontent.com/u/49904576?v=4" width="100px;" alt=""/><br /><sub><b>Mayuresh Deolekar</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=deolekarmayuresh" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/LaibaMemon"><img src="https://avatars3.githubusercontent.com/u/49434426?v=4" width="100px;" alt=""/><br /><sub><b>LaibaMemon</b></sub></a><br /><a href="https://github.com/Techistan/first_contribution/commits?author=LaibaMemon" title="Code">💻</a></td>
+    <td align="center"><a href="http://linkedin.com/in/aemon-jabbar-b833a11b1"><img src="https://avatars3.githubusercontent.com/u/49372579?v=4" width="100px;" alt=""/><br /><sub><b>Aemon Jabbar</b></sub></a><br /><a href="#content-Aemonjabbar" title="Content">🖋</a></td>
   </tr>
 </table>
 
