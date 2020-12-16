@@ -50,6 +50,13 @@
             "linkedinurl": ""
         },
         {
+            "name": "Mayuresh Deolekar",
+            "avatar": "https://avatars1.githubusercontent.com/u/49904576?s=400&u=5896943300bc309d0184894cada928e8ae5b9920&v=4",
+            "description": "Web Developer from India",
+            "githuburl": "https://github.com/deolekarmayuresh",
+            "linkedinurl": "https://www.linkedin.com/in/mayureshdeolekar/"
+        },
+        {
             "name": "Mir Fahad Talpur",
             "avatar": "https://avatars0.githubusercontent.com/u/31244700?s=460&u=4c5b7e12776af2abf81df622738f40fce181fe64&v=4",
             "description": "Software Developer from Karachi, Pakistan",
@@ -100,6 +107,23 @@
             "githuburl": "https://github.com/owais4321",
             "linkedinurl": "https://www.linkedin.com/in/owais-raza-1bb981168/"
         }
+	{
+
+            "name": "Aemon Jabbar Memon",
+            "avatar": "https://avatars2.githubusercontent.com/u/49372579?s=460&u=56b3dccde043a0dbe98a385eb69344282a24e091&v=4",
+            "description": "Open source contributor",
+            "githuburl": "https://github.com/Aemonjabbar",
+            "linkedinurl": "http://linkedin.com/in/aemon-jabbar-b833a11b1"
+        },
+      {
+
+            "name": "Laiba Ghulam Rasool Memon",
+            "avatar": "https://avatars2.githubusercontent.com/u/49434426?s=400&v=4",
+            "description": "Software Engineer and a Open Source Contributor",
+            "githuburl": "https://github.com/LaibaMemon",
+            "linkedinurl": "https://www.linkedin.com/in/laiba-memon-940b711a8"
+        },    
+
     ],
     "contributors": [
         {
@@ -190,7 +214,7 @@
             "description": "Software Developer | Open-Source Mentor",
             "githuburl": "https://github.com/kushal98",
             "linkedinurl": "https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/"
-        }
+        },
 
         {
             "name": "Suraj Verma",
@@ -213,6 +237,27 @@
             "description": "Cross-platform Developer",
             "githuburl": "https://github.com/UmairJibran",
             "linkedinurl": "https://www.linkedin.com/in/UmairJibran"
-      }
+      },
+       {
+            "name": "Usama Liaquat",
+            "avatar": "https://avatars0.githubusercontent.com/u/33973828?s=460&u=16a9aa2d276f189817d5fdd57e6ca5ebbb630b78&v=4",
+            "description": "React Native Developer",
+            "githuburl": "https://github.com/Usamaliaquat123/",
+            "linkedinurl": "https://www.linkedin.com/in/usamaliaquat"
+      },
+      {
+        "name": "Rao Ubaidullah",
+        "avatar": "https://web.facebook.com/photo.php?fbid=942769122781783&set=a.159917324400304&type=3&theater",
+        "description": "PHP Yii2 and React Native Developer",
+        "githuburl": "https://github.com/ubaidrao",
+        "linkedinurl": "https://www.linkedin.com/in/rao-ubaidullah-7b9a95169/"
+  },
+	    {
+        "name": "Muhammad Zeeshan",
+        "avatar": "https://avatars1.githubusercontent.com/u/50893618?s=400&u=db19e6101f01f4fb6adc7fa380cdb9a63bdc53c8&v=4",
+        "description": "Machine Learning Enthusiast and Open source contributor",
+        "githuburl": "https://github.com/zeeshanmahar007",
+        "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
+  }
     ]
 }
