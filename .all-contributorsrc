@@ -203,11 +203,20 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "haniabidkz",
+      "name": "Hasnain Abid Khanzada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38761599?v=4",
+      "profile": "https://github.com/haniabidkz",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "first_contribution",
-  "projectOwner": "Techistan",
+  "projectOwner": "devcreatives",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
