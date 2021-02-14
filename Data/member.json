@@ -1,6 +1,16 @@
 {
     "members": [
         {
+
+            "name": "Hasnain Abid Khanzada",
+            "avatar": "https://avatars.githubusercontent.com/u/38761599?s=460&u=4c54ae0069ce77f912b9c39bb8e8c48122bc443d&v=4",
+            "description": "Laravel Developer|Web Pentester",
+            "githuburl": "https://github.com/haniabidkz",
+            "linkedinurl": "https://www.linkedin.com/in/hasnain-abid-khanzada/"
+
+        },
+        
+        {
             "name": "Waqar Ali Siyal",
             "avatar": "https://avatars3.githubusercontent.com/u/49365563?s=460&u=55a9148ae211fea83c326a66fdadbde816263a3f&v=4",
             "description": "Mobile App Developer (Native+Flutter)",
