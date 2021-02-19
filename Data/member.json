@@ -116,7 +116,7 @@
             "description": "Open source contributor and a member of techistan",
             "githuburl": "https://github.com/owais4321",
             "linkedinurl": "https://www.linkedin.com/in/owais-raza-1bb981168/"
-        }
+        },
 	{
 
             "name": "Aemon Jabbar Memon",
@@ -132,7 +132,7 @@
             "description": "Software Engineer and a Open Source Contributor",
             "githuburl": "https://github.com/LaibaMemon",
             "linkedinurl": "https://www.linkedin.com/in/laiba-memon-940b711a8"
-        },    
+        }  
 
     ],
     "contributors": [
@@ -219,6 +219,15 @@
 
 
         {
+            "name": "Nikita jain",
+            "avatar": "https://avatars.githubusercontent.com/u/72670446?s=460&u=608b2cb6bb50668db257a6d2a0c9138b53f5eb92&v=4",
+            "description": "Competitive programmer || Web developer || Open-source contributor",
+            "githuburl": "https://github.com/nikita-jain-01",
+            "linkedinurl": "https://www.linkedin.com/in/nikita-jain-9b58b41b3/"
+        },
+
+
+        {
             "name": "Kushal Agrawal",
             "avatar": "https://avatars1.githubusercontent.com/u/26721689?s=460&u=171eae8ca700324a91506384c1df69dd8493f34e&v=4",
             "description": "Software Developer | Open-Source Mentor",
@@ -261,13 +270,13 @@
         "description": "PHP Yii2 and React Native Developer",
         "githuburl": "https://github.com/ubaidrao",
         "linkedinurl": "https://www.linkedin.com/in/rao-ubaidullah-7b9a95169/"
-  },
+    },
 	    {
         "name": "Muhammad Zeeshan",
         "avatar": "https://avatars1.githubusercontent.com/u/50893618?s=400&u=db19e6101f01f4fb6adc7fa380cdb9a63bdc53c8&v=4",
         "description": "Machine Learning Enthusiast and Open source contributor",
         "githuburl": "https://github.com/zeeshanmahar007",
         "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
-  }
+        }
     ]
 }
