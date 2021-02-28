@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -108,6 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/zeeshanmahar007"><img src="https://avatars2.githubusercontent.com/u/50893618?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mahar zeeshan</b></sub></a><br /><a href="#content-zeeshanmahar007" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/haniabidkz"><img src="https://avatars.githubusercontent.com/u/38761599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hasnain Abid Khanzada</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=haniabidkz" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/nikita-jain-01"><img src="https://avatars.githubusercontent.com/u/72670446?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nikita jain</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=nikita-jain-01" title="Code">💻</a></td>
   </tr>
 </table>
 
