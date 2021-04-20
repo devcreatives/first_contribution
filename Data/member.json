@@ -116,7 +116,7 @@
             "description": "Open source contributor and a member of techistan",
             "githuburl": "https://github.com/owais4321",
             "linkedinurl": "https://www.linkedin.com/in/owais-raza-1bb981168/"
-        }
+        },
 	{
 
             "name": "Aemon Jabbar Memon",
@@ -132,7 +132,7 @@
             "description": "Software Engineer and a Open Source Contributor",
             "githuburl": "https://github.com/LaibaMemon",
             "linkedinurl": "https://www.linkedin.com/in/laiba-memon-940b711a8"
-        },    
+        } 
 
     ],
     "contributors": [
@@ -277,6 +277,13 @@
         "description": "Machine Learning Enthusiast and Open source contributor",
         "githuburl": "https://github.com/zeeshanmahar007",
         "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
-  }
+  },
+    {
+        "name":"Pratik S Zinjurde",
+        "avatar":"https://avatars.githubusercontent.com/u/67961996?v=4",
+        "description":"Aspiring 👨‍💻 Web Developer ",
+        "githuburl":"https://github.com/pratikpz18",
+        "linkedinurl":"https://www.linkedin.com/in/pratik-zinjurde-2a10b71b1/"
+    }
     ]
 }
