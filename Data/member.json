@@ -278,6 +278,15 @@
         "githuburl": "https://github.com/zeeshanmahar007",
         "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
   },
+
+  {
+    "name":"Siddharth Sharma",
+    "avatar":"https://avatars.githubusercontent.com/u/57269591?s=460&u=afec3bad1fea42cac1b2788e9619f31f54fb377e&v=4",
+    "description":"Python Developer | Machine Learning Enthusiast",
+    "githuburl":"https://github.com/sharmas1ddharth",
+    "linkedinurl":"https://www.linkedin.com/in/sharmas1ddharth/"
+  },
+
     {
         "name":"Pratik S Zinjurde",
         "avatar":"https://avatars.githubusercontent.com/u/67961996?v=4",
@@ -285,5 +294,6 @@
         "githuburl":"https://github.com/pratikpz18",
         "linkedinurl":"https://www.linkedin.com/in/pratik-zinjurde-2a10b71b1/"
     }
+
     ]
 }
