@@ -248,6 +248,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "dlaurence269",
+      "name": "Daniel Laurence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24442829?v=4",
+      "profile": "https://github.com/dlaurence269",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
