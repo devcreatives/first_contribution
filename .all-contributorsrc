@@ -203,11 +203,93 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "haniabidkz",
+      "name": "Hasnain Abid Khanzada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38761599?v=4",
+      "profile": "https://github.com/haniabidkz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "nikita-jain-01",
+      "name": "Nikita jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72670446?v=4",
+      "profile": "https://github.com/nikita-jain-01",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "pratikpz18",
+      "name": "Pratik S Zinjurde",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67961996?v=4",
+      "profile": "https://github.com/pratikpz18",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sharmas1ddharth",
+      "name": "Siddharth Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57269591?v=4",
+      "profile": "https://github.com/sharmas1ddharth",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Severus-Matthew",
+      "name": "Manvi Jha",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55323775?v=4",
+      "profile": "https://github.com/Severus-Matthew",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "dlaurence269",
+      "name": "Daniel Laurence",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24442829?v=4",
+      "profile": "https://github.com/dlaurence269",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "itsraghz",
+      "name": "Raghavan alias Saravanan M",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1222999?v=4",
+      "profile": "http://raghsonline.com/blog",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MRslimcoder",
+      "name": "Slim Coder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28563357?v=4",
+      "profile": "http://slimcoder.wordpress.com",
+      "contributions": [
+        "code",
+        "review"
+      ]
+    },
+    {
+      "login": "sharunspi",
+      "name": "sharun k k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21285883?v=4",
+      "profile": "http://kksharun.in",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "first_contribution",
-  "projectOwner": "Techistan",
+  "projectOwner": "devcreatives",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
