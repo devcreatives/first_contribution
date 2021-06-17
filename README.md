@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -113,6 +113,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/sharmas1ddharth"><img src="https://avatars.githubusercontent.com/u/57269591?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Siddharth Sharma</b></sub></a><br /><a href="#content-sharmas1ddharth" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Severus-Matthew"><img src="https://avatars.githubusercontent.com/u/55323775?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Manvi Jha</b></sub></a><br /><a href="#content-Severus-Matthew" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/dlaurence269"><img src="https://avatars.githubusercontent.com/u/24442829?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Laurence</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=dlaurence269" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://raghsonline.com/blog"><img src="https://avatars.githubusercontent.com/u/1222999?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raghavan alias Saravanan M</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=itsraghz" title="Code">💻</a></td>
   </tr>
 </table>
 
