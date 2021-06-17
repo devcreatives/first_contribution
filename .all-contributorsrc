@@ -276,6 +276,15 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "sharunspi",
+      "name": "sharun k k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21285883?v=4",
+      "profile": "http://kksharun.in",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
