@@ -307,6 +307,13 @@
         "description":"Software Engineer",
         "githuburl":"https://github.com/dlaurence269",
         "linkedinurl":"https://www.linkedin.com/in/daniel-a-laurence/"
+    },
+    {
+        "name": "Pavan Srivatsav Valluru",
+        "avatar": "https://avatars.githubusercontent.com/u/24636171?s=60&v=4",
+        "description": "Full stack developer",
+        "githuburl": "https://github.com/PavanSrivatsav",
+        "linkedinurl": "https://www.linkedin.com/in/pavan-srivatsav-b5102397/"
     }
     ]
 }
