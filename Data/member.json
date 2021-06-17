@@ -315,5 +315,13 @@
         "githuburl":"https://github.com/itsraghz",
         "linkedinurl": "https://www.linkedin.com/in/itsraghz/" 
     }
+    ,
+    {
+        "name":"Sharun k k",
+        "avatar":"https://avatars.githubusercontent.com/u/21285883?s=60&v=4",
+        "description":"Software Engineer",
+        "githuburl":"https://github.com/sharunspi",
+        "linkedinurl":"https://www.linkedin.com/in/kksharun/"
+    }
     ]
 }
