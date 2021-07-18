@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -118,6 +118,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://raghsonline.com/blog"><img src="https://avatars.githubusercontent.com/u/1222999?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Raghavan alias Saravanan M</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=itsraghz" title="Code">💻</a></td>
     <td align="center"><a href="http://slimcoder.wordpress.com"><img src="https://avatars.githubusercontent.com/u/28563357?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Slim Coder</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=MRslimcoder" title="Code">💻</a> <a href="https://github.com/devcreatives/first_contribution/pulls?q=is%3Apr+reviewed-by%3AMRslimcoder" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="http://kksharun.in"><img src="https://avatars.githubusercontent.com/u/21285883?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sharun k k</b></sub></a><br /><a href="#content-sharunspi" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/VipulRaj-123"><img src="https://avatars.githubusercontent.com/u/57625616?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vipul Raj</b></sub></a><br /><a href="#content-VipulRaj-123" title="Content">🖋</a></td>
   </tr>
 </table>
 
