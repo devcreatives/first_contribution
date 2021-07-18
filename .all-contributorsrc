@@ -5,6 +5,35 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
+  {
+
+      "login": "MRslimcoder",
+
+      "name": "Slim Coder",
+
+      "avatar_url": "https://avatars.githubusercontent.com/u/28563357?v=4",
+
+      "profile": "http://slimcoder.wordpress.com",
+
+      "contributions": [
+
+        "code",
+
+        "review",
+
+        "content",
+
+        "bug",
+
+        "data",
+
+        "doc",
+
+        "test"
+
+      ]
+
+    },
     {
       "login": "ibrahimijc",
       "name": "ibrahimijc",
@@ -267,21 +296,7 @@
         "code"
       ]
     },
-    {
-      "login": "MRslimcoder",
-      "name": "Slim Coder",
-      "avatar_url": "https://avatars.githubusercontent.com/u/28563357?v=4",
-      "profile": "http://slimcoder.wordpress.com",
-      "contributions": [
-        "code",
-        "review",
-        "content",
-        "bug",
-        "data",
-        "doc",
-        "test"
-      ]
-    },
+
     {
       "login": "sharunspi",
       "name": "sharun k k",
