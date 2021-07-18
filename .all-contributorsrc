@@ -274,7 +274,12 @@
       "profile": "http://slimcoder.wordpress.com",
       "contributions": [
         "code",
-        "review"
+        "review",
+        "content",
+        "bug",
+        "data",
+        "doc",
+        "test"
       ]
     },
     {
