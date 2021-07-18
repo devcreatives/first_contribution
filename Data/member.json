@@ -323,5 +323,14 @@
         "githuburl":"https://github.com/sharunspi",
         "linkedinurl":"https://www.linkedin.com/in/kksharun/"
     }
+    ,
+    {
+	 "name":"Vipul Raj",
+	 "avatar":"https://avatars.githubusercontent.com/u/57625616?v=4", 
+	 "description":"Aspiring Software Developer and competitive coder",
+	 "githuburl":"https://github.com/VipulRaj-123",
+	 "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
+    }
+    ,	    
     ]
 }
