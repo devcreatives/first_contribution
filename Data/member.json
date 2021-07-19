@@ -1,6 +1,13 @@
 {
     "members": [
         {
+            "name": "AvidCoder",
+            "avatar": "https://avatars.githubusercontent.com/u/70807684?v=4",
+            "description": "Optimistic Software Developer | CRAZY Football Fan | Proud GitHub User",
+            "githuburl": "https://github.com/AvidCoder101",
+            "linkedinurl": ""
+        },
+        {
 
             "name": "Hasnain Abid Khanzada",
             "avatar": "https://avatars.githubusercontent.com/u/38761599?s=460&u=4c54ae0069ce77f912b9c39bb8e8c48122bc443d&v=4",
@@ -330,7 +337,6 @@
 	 "description":"Aspiring Software Developer and competitive coder",
 	 "githuburl":"https://github.com/VipulRaj-123",
 	 "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
-    }
-    ,	    
+    }	    
     ]
 }
