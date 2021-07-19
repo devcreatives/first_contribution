@@ -5,34 +5,20 @@
   "imageSize": 100,
   "commit": false,
   "contributors": [
-  {
-
+    {
       "login": "MRslimcoder",
-
       "name": "Slim Coder",
-
       "avatar_url": "https://avatars.githubusercontent.com/u/28563357?v=4",
-
       "profile": "http://slimcoder.wordpress.com",
-
       "contributions": [
-
         "code",
-
         "review",
-
         "content",
-
         "bug",
-
         "data",
-
         "doc",
-
         "test"
-
       ]
-
     },
     {
       "login": "ibrahimijc",
@@ -296,7 +282,6 @@
         "code"
       ]
     },
-
     {
       "login": "sharunspi",
       "name": "sharun k k",
@@ -312,6 +297,16 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/57625616?v=4",
       "profile": "https://github.com/VipulRaj-123",
       "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AvidCoder101",
+      "name": "AvidCoder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70807684?v=4",
+      "profile": "https://github.com/AvidCoder101",
+      "contributions": [
+        "code",
         "content"
       ]
     }
