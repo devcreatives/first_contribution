@@ -309,6 +309,15 @@
         "code",
         "content"
       ]
+    },
+    {
+      "login": "shadow-prince",
+      "name": "Sai Kishore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59025976?v=4",
+      "profile": "http://shadowprince.vercel.app",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
