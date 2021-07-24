@@ -344,6 +344,14 @@
 	 "description":"Aspiring Software Developer and competitive coder",
 	 "githuburl":"https://github.com/VipulRaj-123",
 	 "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
-    }	    
+    },	
+    {
+        "name":"Alwaz Qazi",
+        "avatar":"https://avatars.githubusercontent.com/u/49204941?v=4", 
+        "description":"Focused Software engineering major | Learning MERN stack | Programming blogger",
+        "githuburl":"https://github.com/Alwaz",
+        "linkedinurl":"https://www.linkedin.com/in/alwaz-qazi-485a091b8/"  
+       }
+
     ]
 }
