@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -122,6 +122,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/AvidCoder101"><img src="https://avatars.githubusercontent.com/u/70807684?v=4?s=100" width="100px;" alt=""/><br /><sub><b>AvidCoder</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=AvidCoder101" title="Code">💻</a> <a href="#content-AvidCoder101" title="Content">🖋</a></td>
     <td align="center"><a href="http://shadowprince.vercel.app"><img src="https://avatars.githubusercontent.com/u/59025976?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sai Kishore</b></sub></a><br /><a href="#content-shadow-prince" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/Alwaz"><img src="https://avatars.githubusercontent.com/u/49204941?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alwaz</b></sub></a><br /><a href="#content-Alwaz" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9"><img src="https://avatars.githubusercontent.com/u/37710130?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ratheshan Sathiyamoorthy</b></sub></a><br /><a href="#content-Ratheshan03" title="Content">🖋</a></td>
   </tr>
 </table>
 
