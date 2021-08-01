@@ -351,7 +351,15 @@
         "description":"Focused Software engineering major | Learning MERN stack | Programming blogger",
         "githuburl":"https://github.com/Alwaz",
         "linkedinurl":"https://www.linkedin.com/in/alwaz-qazi-485a091b8/"  
+       },
+       {
+        "name":"Ratheshan Sathiyamoorthy",
+        "avatar":"https://avatars.githubusercontent.com/u/37710130?v=4", 
+        "description":"Undergraduate Student 🎓 BSc. (Hons) Computer Science| Currently Learning Data Science ",
+        "githuburl":"https://github.com/Ratheshan03",
+        "linkedinurl":"https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/"  
        }
+
 
     ]
 }
