@@ -336,6 +336,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "abd-ar",
+      "name": "Abd",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87899654?v=4",
+      "profile": "https://github.com/abd-ar",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
