@@ -365,8 +365,14 @@
         "description":"Undergraduate Student 🎓 BSc. (Hons) Computer Science| Currently Learning Data Science ",
         "githuburl":"https://github.com/Ratheshan03",
         "linkedinurl":"https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/"  
+       },
+       {
+        "name":"Jayant Goel",
+        "avatar":"https://avatars.githubusercontent.com/u/54479676?v=4", 
+        "description":"You Know Who I Am.",
+        "githuburl":"https://github.com/JayantGoel001",
+        "linkedinurl":"https://www.linkedin.com/in/jayantgoel001/"  
        }
-
 
     ]
 }
