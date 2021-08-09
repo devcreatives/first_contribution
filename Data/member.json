@@ -365,7 +365,14 @@
         "description":"Undergraduate Student 🎓 BSc. (Hons) Computer Science| Currently Learning Data Science ",
         "githuburl":"https://github.com/Ratheshan03",
         "linkedinurl":"https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/"  
-       }
+       },
+	{
+            "name": "CodingSpecies",
+            "avatar": "https://avatars.githubusercontent.com/u/70807500?v=4",
+            "description": "Making Websites, Little Apps and Code Widgets!",
+            "githuburl": "https://github.com/CodingSpecies",
+            "linkedinurl": ""
+        }
 
 
     ]
