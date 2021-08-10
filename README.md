@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -130,6 +130,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9"><img src="https://avatars.githubusercontent.com/u/37710130?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ratheshan Sathiyamoorthy</b></sub></a><br /><a href="#content-Ratheshan03" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/abd-ar"><img src="https://avatars.githubusercontent.com/u/87899654?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abd</b></sub></a><br /><a href="#content-abd-ar" title="Content">🖋</a></td>
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a></td>
+    <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a></td>
   </tr>
 </table>
 
