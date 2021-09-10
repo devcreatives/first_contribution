@@ -109,7 +109,7 @@
             "linkedinurl": ""
         }
     ],
-    "ownwer": [
+    "owner": [
         {
             "name": "Slim Coder",
             "avatar": "https://avatars2.githubusercontent.com/u/28563357?s=460&u=78508ddc7312bc6faa38eaf82ea7d8e0217dcc5a&v=4",
@@ -373,12 +373,19 @@
         "githuburl":"https://github.com/JayantGoel001",
         "linkedinurl":"https://www.linkedin.com/in/jayantgoel001/"  
        },
-	     {
+	{
             "name": "CodingSpecies",
             "avatar": "https://avatars.githubusercontent.com/u/70807500?v=4",
             "description": "Making Websites, Little Apps and Code Widgets!",
             "githuburl": "https://github.com/CodingSpecies",
             "linkedinurl": ""
+        },
+	{
+            "name": "Akshayan Sinha",
+            "avatar": "https://avatars.githubusercontent.com/u/52236719?v=4",
+            "description": "This world is ours, but not this planet",
+            "githuburl": "https://github.com/hippyaki",
+            "linkedinurl": "https://www.linkedin.com/in/akshayansinha/"
         }
 
     ]
