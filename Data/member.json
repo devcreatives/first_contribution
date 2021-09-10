@@ -386,6 +386,13 @@
             "githuburl": "https://github.com/CodingSpecies",
             "linkedinurl": ""
         },
+        {
+            "name": "Neetesh Kumar Sharma",
+            "avatar":"https://avatars.githubusercontent.com/u/62437607?s=400&u=2eb499b9bc95a85b69e1b1f599a57a2abbefffde&v=4",
+            "description": "Student of Computer Science and Engineering",
+            "githuburl":"https://github.com/Neeteshking21",
+            "linkedinurl":"https://www.linkedin.com/in/neetesh-kumar-sharma-4477251b6/"
+        },
 	    {
             "name": "Rishabh Dwivedi",
             "avatar": "https://avatars.githubusercontent.com/u/57454462?v=4",
@@ -399,7 +406,7 @@
             "description": "This world is ours, but not this planet",
             "githuburl": "https://github.com/hippyaki",
             "linkedinurl": "https://www.linkedin.com/in/akshayansinha/"
-        }
+        },
         {
             "name": "Zuhair Hossain",
             "avatar": "https://avatars.githubusercontent.com/u/54927608?v=4",
