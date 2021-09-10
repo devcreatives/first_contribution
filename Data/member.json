@@ -109,7 +109,7 @@
             "linkedinurl": ""
         }
     ],
-    "ownwer": [
+    "owner": [
         {
             "name": "Slim Coder",
             "avatar": "https://avatars2.githubusercontent.com/u/28563357?s=460&u=78508ddc7312bc6faa38eaf82ea7d8e0217dcc5a&v=4",
@@ -220,7 +220,13 @@
             "githuburl": "https://github.com/FatimaYousif",
             "linkedinurl": "https://www.linkedin.com/in/fatima-yousif-89842819a"
         },
-
+        {
+            "name": "Mubeen Ahmad",
+            "avatar": "https://avatars.githubusercontent.com/u/56739319?v=4",
+            "description": "Web Developer and new to Open source contribution",
+            "githuburl": "hhttps://github.com/MubeenAhmad571",
+            "linkedinurl": "https://www.linkedin.com/in/mubeenahmad571/"
+        },
         {
             "name": "Muhammad Asim Khaskheli",
             "avatar": "https://avatars1.githubusercontent.com/u/46053827?s=460&u=7cd067e77e0e992d0dabd8cb1684986d6e9504b2&v=4",
@@ -373,7 +379,7 @@
         "githuburl":"https://github.com/JayantGoel001",
         "linkedinurl":"https://www.linkedin.com/in/jayantgoel001/"  
        },
-	     {
+	{
             "name": "CodingSpecies",
             "avatar": "https://avatars.githubusercontent.com/u/70807500?v=4",
             "description": "Making Websites, Little Apps and Code Widgets!",
@@ -386,7 +392,27 @@
             "description": "Student of Computer Science and Engineering",
             "githuburl":"https://github.com/Neeteshking21",
             "linkedinurl":"https://www.linkedin.com/in/neetesh-kumar-sharma-4477251b6/"
+        },
+	    {
+            "name": "Rishabh Dwivedi",
+            "avatar": "https://avatars.githubusercontent.com/u/57454462?v=4",
+            "description": "Web Developer | ML learner | Open Source Contributer",
+            "githuburl": "https://github.com/Rishabh062",
+            "linkedinurl": "https://www.linkedin.com/in/rishabh-dwivedi-28737b1a0"
+      },
+	{
+            "name": "Akshayan Sinha",
+            "avatar": "https://avatars.githubusercontent.com/u/52236719?v=4",
+            "description": "This world is ours, but not this planet",
+            "githuburl": "https://github.com/hippyaki",
+            "linkedinurl": "https://www.linkedin.com/in/akshayansinha/"
+        },
+        {
+            "name": "Zuhair Hossain",
+            "avatar": "https://avatars.githubusercontent.com/u/54927608?v=4",
+            "description": "Bangladeshi | Studying Computer Science and Engineering at BRAC University, Dhaka | Webmaster, BRACU IEEE SB | Competitive Programmer |",
+            "githuburl": "https://github.com/ZuhairHossain/",
+            "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
         }
-
     ]
 }
