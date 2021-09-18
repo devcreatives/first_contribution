@@ -413,6 +413,13 @@
             "description": "Bangladeshi | Studying Computer Science and Engineering at BRAC University, Dhaka | Webmaster, BRACU IEEE SB | Competitive Programmer |",
             "githuburl": "https://github.com/ZuhairHossain/",
             "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
-        }
+        },
+        {
+            "name":"Rashid Wassan",
+            "avatar":"https://user-images.githubusercontent.com/60597290/133908886-021bc16e-0dde-49a7-8657-521ee2903707.png", 
+            "description":"Google DSC Lead | A Flutter Developer with MERN Stack skills | Community Builder.",
+            "githuburl":"https://github.com/rashidwassan",
+            "linkedinurl":"https://www.linkedin.com/in/rashidwassan/"  
+        }	   
     ]
 }
