@@ -413,6 +413,13 @@
             "description": "Bangladeshi | Studying Computer Science and Engineering at BRAC University, Dhaka | Webmaster, BRACU IEEE SB | Competitive Programmer |",
             "githuburl": "https://github.com/ZuhairHossain/",
             "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
-        }
+        },
+	    {
+	        "name": "Janzell Jurilla",
+	        "avatar": "https://avatars.githubusercontent.com/u/1677522?v=4",
+	        "description": "A passionate software developer from the Philippines", 
+	        "githuburl": "https://github.com/janzell",
+	        "linkedinurl": "https://www.linkedin.com/in/janzell/"
+    	}
     ]
 }
