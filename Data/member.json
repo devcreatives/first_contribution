@@ -14,6 +14,13 @@
             "githuburl": "https://github.com/shadow-prince",
             "linkedinurl": ""
         },
+	{
+            "name": "Khushi Bhambri",
+            "avatar": "https://avatars.githubusercontent.com/Khushibhambri",
+            "description": "Tech Enthusiast and a Programmer ",
+            "githuburl": "https://github.com/KhushiBhambri/",
+            "linkedinurl": "https://www.linkedin.com/in/khushibhambri/"
+        },
         {
 
             "name": "Hasnain Abid Khanzada",
@@ -414,5 +421,6 @@
             "githuburl": "https://github.com/ZuhairHossain/",
             "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
         }
+	    
     ]
 }
