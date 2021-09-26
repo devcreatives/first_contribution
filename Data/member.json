@@ -157,6 +157,14 @@
 
     ],
     "contributors": [
+
+        {
+            "name": "Ankit shrivastava",
+            "avatar": "https://avatars.githubusercontent.com/u/52345268?v=4",
+            "description": "I am a javascript developer, I love to solve problems. I use HTML, CSS, and JavaScript, or react to implement my solution.",
+            "githuburl": "https://github.com/ankyBot",
+            "linkedinurl": "https://www.linkedin.com/in/ankybot"
+        },
         {
             "name": "Ibad Shaikh",
             "avatar": "https://avatars1.githubusercontent.com/u/45182517?s=400&u=3dfc994d9f0f868b1c3020e47a0da9b2622afe45&v=4",
