@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -137,6 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/johndao1005"><img src="https://avatars.githubusercontent.com/u/68571078?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John Dao</b></sub></a><br /><a href="#content-johndao1005" title="Content">🖋</a></td>
+    <td align="center"><a href="http://rashidwassan.github.io"><img src="https://avatars.githubusercontent.com/u/60597290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rashid Wassan</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=RashidWassan" title="Code">💻</a></td>
   </tr>
 </table>
 

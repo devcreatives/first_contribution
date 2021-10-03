@@ -399,6 +399,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "RashidWassan",
+      "name": "Rashid Wassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60597290?v=4",
+      "profile": "http://rashidwassan.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
