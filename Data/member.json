@@ -386,6 +386,14 @@
             "githuburl": "https://github.com/CodingSpecies",
             "linkedinurl": ""
         },
+
+	     {
+            "name": "Anas Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/87796038?s=400&u=609ffdd767cef890e23e9cc3a7f75a0d601e8264&v=4",
+            "description": "I find My self in Coding and Finance stuffs.",
+            "githuburl": "https://github.com/anaskhan28",
+            "linkedinurl": "https://www.linkedin.com/in/anas-khan-993aa91b7"
+},
         {
             "name": "Neetesh Kumar Sharma",
             "avatar":"https://avatars.githubusercontent.com/u/62437607?s=400&u=2eb499b9bc95a85b69e1b1f599a57a2abbefffde&v=4",
@@ -413,6 +421,9 @@
             "description": "Bangladeshi | Studying Computer Science and Engineering at BRAC University, Dhaka | Webmaster, BRACU IEEE SB | Competitive Programmer |",
             "githuburl": "https://github.com/ZuhairHossain/",
             "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
+
+
+
         },
         {
             "name": "Ishraq Ahmed Esha",
@@ -420,6 +431,7 @@
             "description": "Studying Computer Science and Engineering at BRAC University, Dhaka, Bangladesh | Software Control Developer, BRACU Mongol - Tori | Machine Learning Enthusiast",
             "githuburl": "https://github.com/ahmedishraq",
             "linkedinurl": "http://linkedin.com/in/ishraq-ahmed-esha-244978172"
+
         }
     ]
 }
