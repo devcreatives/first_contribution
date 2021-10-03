@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -132,6 +132,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a></td>
     <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/ahmedishraq"><img src="https://avatars.githubusercontent.com/u/54831190?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ishraq Ahmed Esha</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=ahmedishraq" title="Code">💻</a></td>
+    <td align="center"><a href="http://youtube.com/channel/UCAgAVl_Nmt2F0uNkVCah6PQ"><img src="https://avatars.githubusercontent.com/u/37421316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a><br /><a href="#content-aayush89890" title="Content">🖋</a></td>
   </tr>
 </table>
 
