@@ -390,6 +390,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "johndao1005",
+      "name": "John Dao",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68571078?v=4",
+      "profile": "https://github.com/johndao1005",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
