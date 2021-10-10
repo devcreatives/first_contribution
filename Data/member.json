@@ -437,9 +437,7 @@
             "githuburl":"https://github.com/rashidwassan",
             "linkedinurl":"https://www.linkedin.com/in/rashidwassan/"  
         }	   
-
-
-        },
+,
         {
             "name": "Quang Thanh Dao",
             "avatar": "https://avatars.githubusercontent.com/u/68571078?v=4",
@@ -459,6 +457,13 @@
             "linkedinurl": "http://linkedin.com/in/ishraq-ahmed-esha-244978172"
 
 
+        },
+        {
+            "name" : "Vineet Nayak S",
+            "avatar":"https://avatars.githubusercontent.com/u/54831190?v=4",
+            "description": "Leader by Nature, Techie by Passion",
+            "githuburl": "hhttps://github.com/vineetnayak777",
+            "linkedinurl":"http://linkedin.com/in/vineetnayak777"
         }
 	    
     ]
