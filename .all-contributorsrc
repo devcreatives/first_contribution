@@ -408,6 +408,24 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "syedsohan",
+      "name": "Syed Sohan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63908584?v=4",
+      "profile": "https://github.com/syedsohan",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "vineetnayak777",
+      "name": "Vineet Nayak S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41694108?v=4",
+      "profile": "https://sites.google.com/view/vineetnayaks",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
