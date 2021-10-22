@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-46-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-47-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -140,6 +140,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://rashidwassan.github.io"><img src="https://avatars.githubusercontent.com/u/60597290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rashid Wassan</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=RashidWassan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/syedsohan"><img src="https://avatars.githubusercontent.com/u/63908584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Syed Sohan</b></sub></a><br /><a href="#content-syedsohan" title="Content">🖋</a></td>
     <td align="center"><a href="https://sites.google.com/view/vineetnayaks"><img src="https://avatars.githubusercontent.com/u/41694108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vineet Nayak S</b></sub></a><br /><a href="#content-vineetnayak777" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/adityatheoctocatdev"><img src="https://avatars.githubusercontent.com/u/52347812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Patel</b></sub></a><br /><a href="#content-adityatheoctocatdev" title="Content">🖋</a></td>
   </tr>
 </table>
 
