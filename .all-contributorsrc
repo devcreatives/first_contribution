@@ -435,6 +435,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "ankyBot",
+      "name": "Ankit Shrivastava",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52345268?v=4",
+      "profile": "http://ankybot.netlify.app/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
