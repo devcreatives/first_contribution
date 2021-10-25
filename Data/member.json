@@ -487,6 +487,12 @@
             "githuburl": "https://github.com/syedsohan",
             "linkedinurl": "https://www.linkedin.com/in/syedsohan/"
         }
-	    
+	{
+            "name": "Akshay Mohan",
+            "avatar": "https://avatars.githubusercontent.com/u/21029573?v=4",
+            "description": "Application Developer | Movie Buff",
+            "githuburl": "https://github.com/AkshayHere",
+            "linkedinurl": "https://www.linkedin.com/in/akshymohn/"
+        }, 
     ]
 }
