@@ -486,7 +486,13 @@
             "description": "Project Executive - IT by Profession | Web Develoiper & Tech Enthuasist by Passion",
             "githuburl": "https://github.com/syedsohan",
             "linkedinurl": "https://www.linkedin.com/in/syedsohan/"
-        }
-	    
+        },
+        {
+            "name": "Zaid Soomro",
+            "avatar": "https://avatars.githubusercontent.com/u/75375280?v=4",
+            "description": "Devoted techie spending trying to plant my trees in open-source community",
+            "githuburl": "https://github.com/iamzaidsoomro",
+            "linkedinurl": "https://www.linkedin.com/in/zaid-ahmed-742b77200/"
+        },    
     ]
 }
