@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-49-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -131,6 +131,18 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/abd-ar"><img src="https://avatars.githubusercontent.com/u/87899654?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abd</b></sub></a><br /><a href="#content-abd-ar" title="Content">🖋</a></td>
     <td align="center"><a href="https://codingspecies.github.io/MeAndMyApps/"><img src="https://avatars.githubusercontent.com/u/70807500?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CodingSpecies</b></sub></a><br /><a href="#content-CodingSpecies" title="Content">🖋</a></td>
     <td align="center"><a href="http://JayantGoel001.github.io"><img src="https://avatars.githubusercontent.com/u/54479676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jayant Goel</b></sub></a><br /><a href="#content-JayantGoel001" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ahmedishraq"><img src="https://avatars.githubusercontent.com/u/54831190?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ishraq Ahmed Esha</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=ahmedishraq" title="Code">💻</a></td>
+    <td align="center"><a href="http://youtube.com/channel/UCAgAVl_Nmt2F0uNkVCah6PQ"><img src="https://avatars.githubusercontent.com/u/37421316?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aayush Jain</b></sub></a><br /><a href="#content-aayush89890" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/KhushiBhambri"><img src="https://avatars.githubusercontent.com/u/64163023?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Khushi </b></sub></a><br /><a href="#content-KhushiBhambri" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/johndao1005"><img src="https://avatars.githubusercontent.com/u/68571078?v=4?s=100" width="100px;" alt=""/><br /><sub><b>John Dao</b></sub></a><br /><a href="#content-johndao1005" title="Content">🖋</a></td>
+    <td align="center"><a href="http://rashidwassan.github.io"><img src="https://avatars.githubusercontent.com/u/60597290?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rashid Wassan</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=RashidWassan" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/syedsohan"><img src="https://avatars.githubusercontent.com/u/63908584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Syed Sohan</b></sub></a><br /><a href="#content-syedsohan" title="Content">🖋</a></td>
+    <td align="center"><a href="https://sites.google.com/view/vineetnayaks"><img src="https://avatars.githubusercontent.com/u/41694108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vineet Nayak S</b></sub></a><br /><a href="#content-vineetnayak777" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/adityatheoctocatdev"><img src="https://avatars.githubusercontent.com/u/52347812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Patel</b></sub></a><br /><a href="#content-adityatheoctocatdev" title="Content">🖋</a></td>
+    <td align="center"><a href="http://ankybot.netlify.app/"><img src="https://avatars.githubusercontent.com/u/52345268?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ankit Shrivastava</b></sub></a><br /><a href="#content-ankyBot" title="Content">🖋</a></td>
+    <td align="center"><a href="http://ʕ•̫͡•ʔ-̫͡-(̾●̮̮̃̾•̃̾)۶٩(̾●̮̮̃̾•̃̾)-̫͡-ʕ•͓͡•ʔ-̫͡-(̾●̮̮̃̾•̃̾)۶٩(̾●̮̮̃̾•̃̾)-̫͡-ʕ•͓͡•ʔ"><img src="https://avatars.githubusercontent.com/u/61884038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleksey Voko</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=Aleksey-Voko" title="Code">💻</a></td>
   </tr>
 </table>
 

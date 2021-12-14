@@ -14,6 +14,13 @@
             "githuburl": "https://github.com/shadow-prince",
             "linkedinurl": ""
         },
+	{
+            "name": "Khushi Bhambri",
+            "avatar": "https://avatars.githubusercontent.com/Khushibhambri",
+            "description": "Tech Enthusiast and a Programmer ",
+            "githuburl": "https://github.com/KhushiBhambri/",
+            "linkedinurl": "https://www.linkedin.com/in/khushibhambri/"
+        },
         {
 
             "name": "Hasnain Abid Khanzada",
@@ -270,95 +277,95 @@
             "linkedinurl": "https://www.linkedin.com/in/surajverma-sv"
 
         },
-       {
+        {
             "name": "Usama Ejaz",
             "avatar": "https://avatars1.githubusercontent.com/u/45048065?s=460&u=fbd1560e0aed210e541e0d0aac3b53d4b6e33739&v=4",
             "description": "Software Engineer",
             "githuburl": "https://github.com/UsamaEjaz0",
             "linkedinurl": "https://www.linkedin.com/in/usamaejaz0/"
-      },
-       {
+        },
+        {
             "name": "Umair Jibran",
             "avatar": "https://avatars2.githubusercontent.com/u/43789374?u=9866dc07886958c9c7166a6ce80fba22ff9b557c&v=4",
             "description": "Cross-platform Developer",
             "githuburl": "https://github.com/UmairJibran",
             "linkedinurl": "https://www.linkedin.com/in/UmairJibran"
-      },
-       {
+        },
+        {
             "name": "Usama Liaquat",
             "avatar": "https://avatars0.githubusercontent.com/u/33973828?s=460&u=16a9aa2d276f189817d5fdd57e6ca5ebbb630b78&v=4",
             "description": "React Native Developer",
             "githuburl": "https://github.com/Usamaliaquat123/",
             "linkedinurl": "https://www.linkedin.com/in/usamaliaquat"
-      },
-      {
+        },
+        {
         "name": "Rao Ubaidullah",
         "avatar": "https://web.facebook.com/photo.php?fbid=942769122781783&set=a.159917324400304&type=3&theater",
         "description": "PHP Yii2 and React Native Developer",
         "githuburl": "https://github.com/ubaidrao",
         "linkedinurl": "https://www.linkedin.com/in/rao-ubaidullah-7b9a95169/"
-  },
+        },
 	    {
         "name": "Muhammad Zeeshan",
         "avatar": "https://avatars1.githubusercontent.com/u/50893618?s=400&u=db19e6101f01f4fb6adc7fa380cdb9a63bdc53c8&v=4",
         "description": "Machine Learning Enthusiast and Open source contributor",
         "githuburl": "https://github.com/zeeshanmahar007",
         "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
-  },
+        },
 
-  {
-    "name":"Siddharth Sharma",
-    "avatar":"https://avatars.githubusercontent.com/u/57269591?s=460&u=afec3bad1fea42cac1b2788e9619f31f54fb377e&v=4",
-    "description":"Python Developer | Machine Learning Enthusiast",
-    "githuburl":"https://github.com/sharmas1ddharth",
-    "linkedinurl":"https://www.linkedin.com/in/sharmas1ddharth/"
-  },
+        {
+            "name":"Siddharth Sharma",
+            "avatar":"https://avatars.githubusercontent.com/u/57269591?s=460&u=afec3bad1fea42cac1b2788e9619f31f54fb377e&v=4",
+            "description":"Python Developer | Machine Learning Enthusiast",
+            "githuburl":"https://github.com/sharmas1ddharth",
+            "linkedinurl":"https://www.linkedin.com/in/sharmas1ddharth/"
+        },
 
-    {
+        {
         "name":"Pratik S Zinjurde",
         "avatar":"https://avatars.githubusercontent.com/u/67961996?v=4",
         "description":"Aspiring 👨‍💻 Web Developer ",
         "githuburl":"https://github.com/pratikpz18",
         "linkedinurl":"https://www.linkedin.com/in/pratik-zinjurde-2a10b71b1/"
-    },
-    {
+        },
+        {
         "name":"Manvi Jha",
         "avatar":"https://avatars.githubusercontent.com/u/55323775?v=4",
         "description":"Curious Learner and Developer",
         "githuburl":"https://github.com/Severus-Matthew",
         "linkedinurl":"https://www.linkedin.com/in/manvi-jha-2784711a7/"
-    },
-    {
-        "name":"Daniel A Laurence",
+        },
+        {
+            "name":"Daniel A Laurence",
         "avatar":"https://avatars.githubusercontent.com/u/24442829",
         "description":"Software Engineer",
         "githuburl":"https://github.com/dlaurence269",
         "linkedinurl":"https://www.linkedin.com/in/daniel-a-laurence/"
-    },
-    {
+        },
+        {
         "name":"Raghavan alias Saravanana Muthu",
         "avatar": "https://avatars.githubusercontent.com/u/1222999", 
         "description":"Technical Evangelist | YouTuber | Blogger",
         "githuburl":"https://github.com/itsraghz",
         "linkedinurl": "https://www.linkedin.com/in/itsraghz/" 
-    }
-    ,
-    {
+        }
+        ,
+        {
         "name":"Sharun k k",
         "avatar":"https://avatars.githubusercontent.com/u/21285883?s=60&v=4",
         "description":"Software Engineer",
         "githuburl":"https://github.com/sharunspi",
         "linkedinurl":"https://www.linkedin.com/in/kksharun/"
-    }
-    ,
-    {
-	 "name":"Vipul Raj",
-	 "avatar":"https://avatars.githubusercontent.com/u/57625616?v=4", 
-	 "description":"Aspiring Software Developer and competitive coder",
-	 "githuburl":"https://github.com/VipulRaj-123",
-	 "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
-    },	
-    {
+        }
+        ,
+        {
+        "name":"Vipul Raj",
+        "avatar":"https://avatars.githubusercontent.com/u/57625616?v=4", 
+        "description":"Aspiring Software Developer and competitive coder",
+        "githuburl":"https://github.com/VipulRaj-123",
+        "linkedinurl":"https://www.linkedin.com/in/vipul-raj-02337b187/"  
+        },	
+        {
         "name":"Alwaz Qazi",
         "avatar":"https://avatars.githubusercontent.com/u/49204941?v=4", 
         "description":"Focused Software engineering major | Learning MERN stack | Programming blogger",
@@ -378,14 +385,22 @@
         "description":"You Know Who I Am.",
         "githuburl":"https://github.com/JayantGoel001",
         "linkedinurl":"https://www.linkedin.com/in/jayantgoel001/"  
-       },
-	{
+        },
+    	{
             "name": "CodingSpecies",
             "avatar": "https://avatars.githubusercontent.com/u/70807500?v=4",
             "description": "Making Websites, Little Apps and Code Widgets!",
             "githuburl": "https://github.com/CodingSpecies",
             "linkedinurl": ""
         },
+
+	     {
+            "name": "Anas Khan",
+            "avatar": "https://avatars.githubusercontent.com/u/87796038?s=400&u=609ffdd767cef890e23e9cc3a7f75a0d601e8264&v=4",
+            "description": "I find My self in Coding and Finance stuffs.",
+            "githuburl": "https://github.com/anaskhan28",
+            "linkedinurl": "https://www.linkedin.com/in/anas-khan-993aa91b7"
+},
         {
             "name": "Neetesh Kumar Sharma",
             "avatar":"https://avatars.githubusercontent.com/u/62437607?s=400&u=2eb499b9bc95a85b69e1b1f599a57a2abbefffde&v=4",
@@ -399,8 +414,8 @@
             "description": "Web Developer | ML learner | Open Source Contributer",
             "githuburl": "https://github.com/Rishabh062",
             "linkedinurl": "https://www.linkedin.com/in/rishabh-dwivedi-28737b1a0"
-      },
-	{
+        },
+	    {
             "name": "Akshayan Sinha",
             "avatar": "https://avatars.githubusercontent.com/u/52236719?v=4",
             "description": "This world is ours, but not this planet",
@@ -420,6 +435,70 @@
 	        "description": "A passionate software developer from the Philippines", 
 	        "githuburl": "https://github.com/janzell",
 	        "linkedinurl": "https://www.linkedin.com/in/janzell/"
-    	}
+    	},
+        {
+            "name": "Ankit shrivastava",
+            "avatar": "https://avatars.githubusercontent.com/u/52345268?v=4",
+            "description": "I am a javascript developer, I love to solve problems. I use HTML, CSS, and JavaScript, or react to implement my solution.",
+            "githuburl": "https://github.com/ankyBot",
+            "linkedinurl": "https://www.linkedin.com/in/ankybot"
+
+        },
+        {
+            "name":"Rashid Wassan",
+            "avatar":"https://user-images.githubusercontent.com/60597290/133908886-021bc16e-0dde-49a7-8657-521ee2903707.png", 
+            "description":"Google DSC Lead | A Flutter Developer with MERN Stack skills | Community Builder.",
+            "githuburl":"https://github.com/rashidwassan",
+            "linkedinurl":"https://www.linkedin.com/in/rashidwassan/"  
+        }	   
+,
+        {
+            "name": "Quang Thanh Dao",
+            "avatar": "https://avatars.githubusercontent.com/u/68571078?v=4",
+            "description": "BIT student | In progress Full-stack Developer | React lover",
+            "githuburl": "https://github.com/johndao1005",
+            "linkedinurl": "https://www.linkedin.com/in/mrjohndao/"
+
+
+
+
+        },
+        {
+            "name": "Ishraq Ahmed Esha",
+            "avatar": "https://avatars.githubusercontent.com/u/54831190?v=4",
+            "description": "Studying Computer Science and Engineering at BRAC University, Dhaka, Bangladesh | Software Control Developer, BRACU Mongol - Tori | Machine Learning Enthusiast",
+            "githuburl": "https://github.com/ahmedishraq",
+            "linkedinurl": "http://linkedin.com/in/ishraq-ahmed-esha-244978172"
+
+
+        },
+	{
+	    "name": "Aditya Patel",
+            "avatar": "https://avatars.githubusercontent.com/u/52347812?v=4",
+            "description": "I Love Opensource.",
+            "githuburl": "https://github.com/adityatheoctocatdev",
+            "linkedinurl": "hhttps://www.linkedin.com/in/aditya-patel-75434a188"
+	}    ,
+        {
+            "name" : "Vineet Nayak S",
+            "avatar":"https://avatars.githubusercontent.com/u/54831190?v=4",
+            "description": "Leader by Nature, Techie by Passion",
+            "githuburl": "hhttps://github.com/vineetnayak777",
+            "linkedinurl":"http://linkedin.com/in/vineetnayak777"
+        },
+        {
+            "name": "Syed Sohan",
+            "avatar": "https://avatars.githubusercontent.com/u/63908584?v=4",
+            "description": "Project Executive - IT by Profession | Web Develoiper & Tech Enthuasist by Passion",
+            "githuburl": "https://github.com/syedsohan",
+            "linkedinurl": "https://www.linkedin.com/in/syedsohan/"
+        },
+        {
+            "name": "Aleksey-Voko",
+            "avatar": "https://avatars.githubusercontent.com/u/61884038?v=4",
+            "description": "Python, Java, Kotlin, Android, Go",
+            "githuburl": "https://github.com/Aleksey-Voko",
+            "linkedinurl": ""
+        }
     ]
 }
