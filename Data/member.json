@@ -507,5 +507,13 @@
             "githuburl": "https://github.com/Aleksey-Voko",
             "linkedinurl": ""
         }
+        ,
+      {
+            "name": "Abhinav",
+            "avatar": "https://avatars.githubusercontent.com/u/62201123?v=4",
+            "description": "Hey it's me Abhinav",
+            "githuburl": "https://github.com/Abhi6722",
+            "linkedinurl": "https://www.linkedin.com/in/Abhi6722"
+        }
     ]
 }
