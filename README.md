@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-48-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-50-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -142,6 +142,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://sites.google.com/view/vineetnayaks"><img src="https://avatars.githubusercontent.com/u/41694108?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vineet Nayak S</b></sub></a><br /><a href="#content-vineetnayak777" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/adityatheoctocatdev"><img src="https://avatars.githubusercontent.com/u/52347812?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Patel</b></sub></a><br /><a href="#content-adityatheoctocatdev" title="Content">🖋</a></td>
     <td align="center"><a href="http://ankybot.netlify.app/"><img src="https://avatars.githubusercontent.com/u/52345268?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ankit Shrivastava</b></sub></a><br /><a href="#content-ankyBot" title="Content">🖋</a></td>
+    <td align="center"><a href="http://ʕ•̫͡•ʔ-̫͡-(̾●̮̮̃̾•̃̾)۶٩(̾●̮̮̃̾•̃̾)-̫͡-ʕ•͓͡•ʔ-̫͡-(̾●̮̮̃̾•̃̾)۶٩(̾●̮̮̃̾•̃̾)-̫͡-ʕ•͓͡•ʔ"><img src="https://avatars.githubusercontent.com/u/61884038?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aleksey Voko</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=Aleksey-Voko" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://janzell.github.io"><img src="https://avatars.githubusercontent.com/u/1677522?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Janzell Jurilla</b></sub></a><br /><a href="https://github.com/devcreatives/first_contribution/commits?author=janzell" title="Code">💻</a></td>
   </tr>
 </table>
 
