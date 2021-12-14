@@ -429,7 +429,13 @@
             "githuburl": "https://github.com/ZuhairHossain/",
             "linkedinurl": "https://www.linkedin.com/in/syed-zuhair-hossain/"
         },
-
+	    {
+	        "name": "Janzell Jurilla",
+	        "avatar": "https://avatars.githubusercontent.com/u/1677522?v=4",
+	        "description": "A passionate software developer from the Philippines", 
+	        "githuburl": "https://github.com/janzell",
+	        "linkedinurl": "https://www.linkedin.com/in/janzell/"
+    	},
         {
             "name": "Ankit shrivastava",
             "avatar": "https://avatars.githubusercontent.com/u/52345268?v=4",
@@ -494,6 +500,5 @@
             "githuburl": "https://github.com/Aleksey-Voko",
             "linkedinurl": ""
         }
-	    
     ]
 }
