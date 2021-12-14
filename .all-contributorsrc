@@ -462,6 +462,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "iamzaidsoomro",
+      "name": "Zaid Ahmed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75375280?v=4",
+      "profile": "http://iamzaidsoomro.github.io/Zaid_Ahmed/",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
