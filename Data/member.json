@@ -500,12 +500,19 @@
             "githuburl": "https://github.com/iamzaidsoomro",
             "linkedinurl": "https://www.linkedin.com/in/zaid-ahmed-742b77200/"
         },
-      {
+        {
             "name": "Aleksey-Voko",
             "avatar": "https://avatars.githubusercontent.com/u/61884038?v=4",
             "description": "Python, Java, Kotlin, Android, Go",
             "githuburl": "https://github.com/Aleksey-Voko",
             "linkedinurl": ""
+        },
+        {
+            "name": "Abhinav",
+            "avatar": "https://avatars.githubusercontent.com/u/62201123?v=4",
+            "description": "Hey it's me Abhinav",
+            "githuburl": "https://github.com/Abhi6722",
+            "linkedinurl": "https://www.linkedin.com/in/Abhi6722"
         }
     ]
 }
