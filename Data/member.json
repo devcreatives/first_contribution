@@ -513,6 +513,13 @@
             "description": "Hey it's me Abhinav",
             "githuburl": "https://github.com/Abhi6722",
             "linkedinurl": "https://www.linkedin.com/in/Abhi6722"
+        },
+	{
+            "name": "Dhruv Patil",
+            "avatar": "https://avatars.githubusercontent.com/u/61242249?v=4",
+            "description": "Full Stack Developer",
+            "githuburl": "https://github.com/larsonjack05",
+            "linkedinurl": "https://www.linkedin.com/in/dhruv-patil-a82169199/"
         }
     ]
 }
