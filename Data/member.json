@@ -520,6 +520,14 @@
             "description": "Full Stack Developer",
             "githuburl": "https://github.com/larsonjack05",
             "linkedinurl": "https://www.linkedin.com/in/dhruv-patil-a82169199/"
+        },
+
+        {
+            "name": "Labheshwar",
+            "avatar": "https://avatars.githubusercontent.com/u/61242249?v=4",
+            "description": "MERN Stack Developer in making",
+            "githuburl": "https://github.com/labeshsharma",
+            "linkedinurl": "https://www.linkedin.com/in/labheshwar"
         }
     ]
 }
