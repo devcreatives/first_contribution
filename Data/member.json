@@ -520,6 +520,13 @@
             "description": "Full Stack Developer",
             "githuburl": "https://github.com/larsonjack05",
             "linkedinurl": "https://www.linkedin.com/in/dhruv-patil-a82169199/"
+        },
+        {
+            "name": "Usama Rajput",
+            "avatar": "https://www.linkedin.com/in/usama-nayab-378253220/",
+            "description": "MERN stack student",
+            "githuburl": "https://github.com/usama-nayab",
+            "linkedinurl": "https://www.linkedin.com/in/usama-nayab-378253220/"
         }
     ]
 }
