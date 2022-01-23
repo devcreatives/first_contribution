@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-53-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-54-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -149,6 +149,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://iamzaidsoomro.github.io/Zaid_Ahmed/"><img src="https://avatars.githubusercontent.com/u/75375280?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zaid Ahmed</b></sub></a><br /><a href="#content-iamzaidsoomro" title="Content">🖋</a></td>
     <td align="center"><a href="http://abhi6722.in"><img src="https://avatars.githubusercontent.com/u/62201123?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /><a href="#content-Abhi6722" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/larsonjack05"><img src="https://avatars.githubusercontent.com/u/61242249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhruv Patil</b></sub></a><br /><a href="#content-larsonjack05" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
   </tr>
 </table>
 
