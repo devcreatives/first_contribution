@@ -528,6 +528,13 @@
             "description": "MERN Stack Developer in making",
             "githuburl": "https://github.com/labeshsharma",
             "linkedinurl": "https://www.linkedin.com/in/labheshwar"
+        },
+	{
+            "name": "Tran Nguyen Thuong Truong",
+            "avatar": "https://avatars.githubusercontent.com/u/71834167?v=4",
+            "description": "Front-end developer",
+            "githuburl": "https://github.com/thuongtruong1009",
+            "linkedinurl": "https://www.linkedin.com/in/thuongtruong1009"
         }
     ]
 }
