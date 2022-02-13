@@ -528,6 +528,14 @@
             "description": "MERN Stack Developer in making",
             "githuburl": "https://github.com/labeshsharma",
             "linkedinurl": "https://www.linkedin.com/in/labheshwar"
-        }
+        }, 
+         
+        {
+            "name": "Pavan Bhat",
+            "avatar": "https://avatars.githubusercontent.com/u/57312042?v=4",
+            "description": " MEAN | Programmer | Gamer | Geek",
+            "githuburl": "https://github.com/Euphoria99",
+            "linkedinurl": "https://www.linkedin.com/in/pavan-bhat-7544781aa/"
+        }  
     ]
 }
