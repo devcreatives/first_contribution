@@ -517,6 +517,13 @@
       "description": "MERN Stack Developer in making",
       "githuburl": "https://github.com/MaryaBaloch20",
       "linkedinurl": "https://www.linkedin.com/in/maryabaloch20"
-    }
+    },
+    {
+      "name": "Muhammad Iqbal",
+      "avatar": "https://avatars.githubusercontent.com/u/4177656?v=4",
+      "description": "Laravel dev",
+      "githuburl": "https://github.com/iqbalmalik89",
+      "linkedinurl": "https://www.linkedin.com/in/iqbalmalik/"
+    }    
   ]
 }
