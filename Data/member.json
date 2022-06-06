@@ -531,6 +531,13 @@
       "description": "Laravel dev",
       "githuburl": "https://github.com/iqbalmalik89",
       "linkedinurl": "https://www.linkedin.com/in/iqbalmalik/"
-    }    
+    },
+    {
+      "name": "Tran Nguyen Thuong Truong",
+      "avatar": "https://avatars.githubusercontent.com/u/71834167?v=4",
+      "description": "Frontend dev",
+      "githuburl": "https://github.com/thuongtruong1009",
+      "linkedinurl": "https://www.linkedin.com/in/thuongtruong1009"
+    }
   ]
 }
