@@ -531,6 +531,13 @@
       "description": "Laravel dev",
       "githuburl": "https://github.com/iqbalmalik89",
       "linkedinurl": "https://www.linkedin.com/in/iqbalmalik/"
-    }    
+    },
+    {
+      "name": "Hemant",
+      "avatar": "https://avatars.githubusercontent.com/hemantwasthere",
+      "description": "Proud Frontend Dev || Open Source Enthusiast",
+      "githuburl": "https://github.com/hemantwasthere",
+      "linkedinurl": "https://www.linkedin.com/in/hemantwasthere/"
+    }
   ]
 }
