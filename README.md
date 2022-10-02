@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-55-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-56-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h2 style="text-align: center;"> <a href="https://techistan-contributors.herokuapp.com/" target="_blank">Techistan Contributors</a></h2>
 
@@ -152,6 +152,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/larsonjack05"><img src="https://avatars.githubusercontent.com/u/61242249?v=4?s=100" width="100px;" alt="Dhruv Patil"/><br /><sub><b>Dhruv Patil</b></sub></a><br /><a href="#content-larsonjack05" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/labheshwar"><img src="https://avatars.githubusercontent.com/u/66070272?v=4?s=100" width="100px;" alt="Labheshwar Sharma"/><br /><sub><b>Labheshwar Sharma</b></sub></a><br /><a href="#content-labheshwar" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/Saba115"><img src="https://avatars.githubusercontent.com/u/64367762?v=4?s=100" width="100px;" alt="Sabahat Zainab"/><br /><sub><b>Sabahat Zainab</b></sub></a><br /><a href="#content-Saba115" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Mubasharaa"><img src="https://avatars.githubusercontent.com/u/64917130?v=4?s=100" width="100px;" alt="Mubasharaa"/><br /><sub><b>Mubasharaa</b></sub></a><br /><a href="#content-Mubasharaa" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>
