@@ -1,13 +1,20 @@
 {
     "contributors": [
         {
+            "name": "Ashish Jose",
+            "avatar": "https://avatars.githubusercontent.com/ashish2675",
+            "description": "Java + Web developer",
+            "githuburl": "https://github.com/ashish2675",
+            "linkedinurl": "https://www.linkedin.com/in/ashishjose2675/"
+        },
+        {
             "name": "Waqar Ali Siyal",
             "avatar": "https://avatars3.githubusercontent.com/u/49365563?s=460&u=0b5bbc44b876adb8316cc2c876edb5d8443185e6&v=4",
             "description": "Android Development using Java + Java Programming + Basics of DART + Flutter",
             "githuburl": "https://github.com/siraiwaqarali",
             "linkedinurl": ""
         },
- 	{
+        {
             "name": "Inayat Ali Mughal",
             "avatar": "https://avatars3.githubusercontent.com/u/49411975?s=400&u=732c9668d3fc32df96cded1bb2b9580859c1ef6e&v=4",
             "description": "Web Developer",

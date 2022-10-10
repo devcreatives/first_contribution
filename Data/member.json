@@ -28,7 +28,6 @@
       "githuburl": "https://github.com/haniabidkz",
       "linkedinurl": "https://www.linkedin.com/in/hasnain-abid-khanzada/"
     },
-
     {
       "name": "Waqar Ali Siyal",
       "avatar": "https://avatars3.githubusercontent.com/u/49365563?s=460&u=55a9148ae211fea83c326a66fdadbde816263a3f&v=4",
@@ -160,6 +159,13 @@
   ],
   "contributors": [
     {
+      "name": "Ashish Jose",
+      "avatar": "https://avatars.githubusercontent.com/ashish2675",
+      "description": "New to Open Source and looking forward to contribute in JS stuff!",
+      "githuburl": "https://github.com/ashish2675",
+      "linkedinurl": "https://www.linkedin.com/in/ashishjose2675/"
+    },
+    {
       "name": "Ibad Shaikh",
       "avatar": "https://avatars1.githubusercontent.com/u/45182517?s=400&u=3dfc994d9f0f868b1c3020e47a0da9b2622afe45&v=4",
       "description": "New to Open Source and looking forward to contribute in JS stuff!",
@@ -236,7 +242,6 @@
       "githuburl": "https://github.com/Asim-2000",
       "linkedinurl": "https://www.linkedin.com/in/asim-khaskheli/"
     },
-
     {
       "name": "Garima Singh",
       "avatar": "https://avatars3.githubusercontent.com/u/44302373?s=460&u=a9569c40ef4a2b3ee72ca026c2a9964b74b4513e&v=4",
@@ -244,7 +249,6 @@
       "githuburl": "https://github.com/garimasingh128",
       "linkedinurl": "https://www.linkedin.com/in/garima-singh-34042a177/"
     },
-
     {
       "name": "Nikita jain",
       "avatar": "https://avatars.githubusercontent.com/u/72670446?s=460&u=608b2cb6bb50668db257a6d2a0c9138b53f5eb92&v=4",
@@ -252,7 +256,6 @@
       "githuburl": "https://github.com/nikita-jain-01",
       "linkedinurl": "https://www.linkedin.com/in/nikita-jain-9b58b41b3/"
     },
-
     {
       "name": "Kushal Agrawal",
       "avatar": "https://avatars1.githubusercontent.com/u/26721689?s=460&u=171eae8ca700324a91506384c1df69dd8493f34e&v=4",
@@ -260,7 +263,6 @@
       "githuburl": "https://github.com/kushal98",
       "linkedinurl": "https://www.linkedin.com/in/kushal-agrawal-a6a0b5127/"
     },
-
     {
       "name": "Suraj Verma",
       "avatar": "https://avatars3.githubusercontent.com/u/59371846?s=460&u=ae36bdbbe4a210b2322c4c24454297c233ebafcb&v=4",
@@ -303,7 +305,6 @@
       "githuburl": "https://github.com/zeeshanmahar007",
       "linkedinurl": "https://www.linkedin.com/in/zeeshanmahar007/"
     },
-
     {
       "name": "Siddharth Sharma",
       "avatar": "https://avatars.githubusercontent.com/u/57269591?s=460&u=afec3bad1fea42cac1b2788e9619f31f54fb377e&v=4",
@@ -311,7 +312,6 @@
       "githuburl": "https://github.com/sharmas1ddharth",
       "linkedinurl": "https://www.linkedin.com/in/sharmas1ddharth/"
     },
-
     {
       "name": "Pratik S Zinjurde",
       "avatar": "https://avatars.githubusercontent.com/u/67961996?v=4",
@@ -382,7 +382,6 @@
       "githuburl": "https://github.com/CodingSpecies",
       "linkedinurl": ""
     },
-
     {
       "name": "Anas Khan",
       "avatar": "https://avatars.githubusercontent.com/u/87796038?s=400&u=609ffdd767cef890e23e9cc3a7f75a0d601e8264&v=4",
@@ -502,7 +501,6 @@
       "githuburl": "https://github.com/larsonjack05",
       "linkedinurl": "https://www.linkedin.com/in/dhruv-patil-a82169199/"
     },
-
     {
       "name": "Labheshwar",
       "avatar": "https://avatars.githubusercontent.com/u/61242249?v=4",
@@ -510,7 +508,6 @@
       "githuburl": "https://github.com/labeshsharma",
       "linkedinurl": "https://www.linkedin.com/in/labheshwar"
     },
-
     {
       "name": "Marya Baloch",
       "avatar": "https://avatars.githubusercontent.com/u/64646421?v=4",
@@ -531,20 +528,20 @@
       "description": "Laravel dev",
       "githuburl": "https://github.com/iqbalmalik89",
       "linkedinurl": "https://www.linkedin.com/in/iqbalmalik/"
-    },   
+    },
     {
       "name": "Sabahat Zainab",
       "avatar": "https://avatars.githubusercontent.com/u/64367762?v=4",
       "description": "MERN Stack Developer",
       "githuburl": "https://github.com/Saba115",
       "linkedinurl": "https://www.linkedin.com/in/sabahat-zainab-34017420b/"
-    },  
+    },
     {
       "name": "Sabahat Zainab",
       "avatar": "https://avatars.githubusercontent.com/u/64367762?v=4",
       "description": "MERN Stack Developer",
       "githuburl": "https://github.com/Smernz",
       "linkedinurl": "https://www.linkedin.com/in/sabahat-zainab-34017420b/"
-    }    
+    }
   ]
 }
