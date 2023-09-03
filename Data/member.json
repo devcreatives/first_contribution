@@ -545,6 +545,14 @@
       "description": "MERN Stack Developer",
       "githuburl": "https://github.com/Smernz",
       "linkedinurl": "https://www.linkedin.com/in/sabahat-zainab-34017420b/"
-    }    
+    },  
+    {
+      "name": "Sam Hassan",
+      "avatar": "https://avatars.githubusercontent.com/u/64367762?v=4",
+      "description": "Networks Devops",
+      "githuburl": "https://github.com/sam6626",
+      "linkedinurl": "https://www.linkedin.com/in/sam-hassan-544a93231/"
+    }  
+
   ]
 }
